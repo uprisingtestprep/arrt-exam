@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "patient_care",
+    "front": "What is informed consent?",
+    "back": "The patient has been told, in language they understand, what a procedure involves, its risks and benefits, and what alternatives exist, and the patient or their legal representative agrees before the procedure happens."
+  },
+  {
+    "id": 2,
+    "domain": "patient_care",
+    "front": "What is oral consent?",
+    "back": "Spoken agreement to a procedure, commonly used for simpler diagnostic imaging exams."
+  },
+  {
+    "id": 3,
+    "domain": "patient_care",
+    "front": "What is implied consent?",
+    "back": "Consent inferred from the patient's behavior, such as rolling onto the table and holding still for positioning, or consent presumed under the emergency doctrine when an unconscious patient needs urgent treatment."
+  },
+  {
+    "id": 4,
+    "domain": "patient_care",
+    "front": "What is the emergency doctrine?",
+    "back": "A legal principle allowing treatment of an unconscious patient without consent when delay in treatment would cause serious harm."
+  },
+  {
+    "id": 5,
+    "domain": "patient_care",
+    "front": "When is written consent generally required for imaging?",
+    "back": "For invasive procedures involving contrast media or intervention, such as an arthrogram or an angiographic study."
+  },
+  {
+    "id": 6,
+    "domain": "patient_care",
+    "front": "What does HIPAA stand for and what does it protect?",
+    "back": "The Health Insurance Portability and Accountability Act; it restricts who can access, discuss, or transmit a patient's protected health information."
+  },
+  {
+    "id": 7,
+    "domain": "patient_care",
+    "front": "What counts as protected health information (PHI) under HIPAA?",
+    "back": "Anything that could identify the patient combined with their health information, such as name, date of birth, diagnosis, or images."
+  },
+  {
+    "id": 8,
+    "domain": "patient_care",
+    "front": "Who may access a patient's PHI under HIPAA?",
+    "back": "Only staff with a legitimate need to know for treatment, payment, or health care operations."
+  },
+  {
+    "id": 9,
+    "domain": "patient_care",
+    "front": "What is a DNR order?",
+    "back": "Do Not Resuscitate, a physician's written order stating that a patient should not receive CPR or advanced life support if their heart or breathing stops."
+  },
+  {
+    "id": 10,
+    "domain": "patient_care",
+    "front": "What is an advance directive?",
+    "back": "A document a patient completes while competent that states their wishes for future medical care."
+  },
+  {
+    "id": 11,
+    "domain": "patient_care",
+    "front": "What is a living will?",
+    "back": "A document that specifies what treatments a patient does or does not want if they become unable to communicate."
+  },
+  {
+    "id": 12,
+    "domain": "patient_care",
+    "front": "What is a health care proxy?",
+    "back": "Also called a durable power of attorney for health care, it names another person to make medical decisions on the patient's behalf."
+  },
+  {
+    "id": 13,
+    "domain": "patient_care",
+    "front": "Can a patient be enrolled in a research study without separate consent?",
+    "back": "No, patients cannot be enrolled in research without separate, specific informed consent for that research."
+  },
+  {
+    "id": 14,
+    "domain": "patient_care",
+    "front": "Define battery in the legal sense used on the ARRT exam.",
+    "back": "Intentional, unauthorized physical contact with another person; performing an exam on a patient who has refused it can constitute battery even if done with good intentions."
+  },
+  {
+    "id": 15,
+    "domain": "patient_care",
+    "front": "Define negligence.",
+    "back": "The failure to act as a reasonably prudent radiographer would act under similar circumstances, resulting in harm, such as forgetting to raise a side rail on a sedated patient who then falls."
+  },
+  {
+    "id": 16,
+    "domain": "patient_care",
+    "front": "Define malpractice.",
+    "back": "Professional negligence, meaning negligence committed by someone acting in a professional capacity, such as a radiographer."
+  },
+  {
+    "id": 17,
+    "domain": "patient_care",
+    "front": "Define beneficence.",
+    "back": "The ethical principle of acting in the patient's best interest, doing good rather than harm."
+  },
+  {
+    "id": 18,
+    "domain": "patient_care",
+    "front": "What does respondeat superior mean?",
+    "back": "Latin for \"let the master answer,\" this legal doctrine holds an employer legally responsible for the negligent acts of an employee performed within the scope of their job duties."
+  },
+  {
+    "id": 19,
+    "domain": "patient_care",
+    "front": "What does res ipsa loquitur mean?",
+    "back": "\"The thing speaks for itself,\" this doctrine applies when an injury is of a type that would not normally occur without negligence, such as a patient dropped from a table, and shifts the burden of proof toward the defendant."
+  },
+  {
+    "id": 20,
+    "domain": "patient_care",
+    "front": "What is the standard for correct patient identification before an exam?",
+    "back": "Use at least two identifiers, such as the patient's full name and date of birth, and compare them against the order and, in an inpatient setting, the wristband."
+  },
+  {
+    "id": 21,
+    "domain": "patient_care",
+    "front": "Besides identity, what else should be checked before proceeding with an exam?",
+    "back": "Compare the physician's order to the clinical indication to catch mismatches, such as an order for a left knee when the indication describes right knee pain."
+  },
+  {
+    "id": 22,
+    "domain": "patient_care",
+    "front": "Are positioning aids like sponges and sandbags considered restraints?",
+    "back": "No. They are used routinely without special orders because the patient can remove them and they are not intended to restrict the patient's freedom for behavioral reasons."
+  },
+  {
+    "id": 23,
+    "domain": "patient_care",
+    "front": "When are restraints permitted and what governs their use?",
+    "back": "Restraints require a physician's order except in emergencies, must be used only when necessary for the patient's safety, applied correctly to avoid injury, and monitored regularly."
+  },
+  {
+    "id": 24,
+    "domain": "patient_care",
+    "front": "What is the exposure indicator and why must it be recorded accurately?",
+    "back": "A number reflecting how much radiation actually reached the detector; falsifying it to hide a repeat or an overexposure is a serious violation."
+  },
+  {
+    "id": 25,
+    "domain": "patient_care",
+    "front": "When does post-processing of a digital image become fraudulent?",
+    "back": "When cropping or masking anatomy is done specifically to hide a positioning error or make an unacceptable image appear acceptable, rather than to adjust brightness or contrast within reasonable limits."
+  },
+  {
+    "id": 26,
+    "domain": "patient_care",
+    "front": "What must be documented in a patient's record regarding events during imaging?",
+    "back": "Any change to an order, any medical event such as a fall or a reaction, and any repeated exposure, since the record is a legal document."
+  },
+  {
+    "id": 27,
+    "domain": "patient_care",
+    "front": "What is the difference between the ARRT Code of Ethics and the Rules of Ethics?",
+    "back": "The Code of Ethics is an aspirational guide to professional behavior, while the Rules of Ethics are mandatory standards that, if violated, can result in disciplinary action including reprimand, probation, or revocation of certification."
+  },
+  {
+    "id": 28,
+    "domain": "patient_care",
+    "front": "What are the three channels of patient communication?",
+    "back": "Verbal, written, and nonverbal communication."
+  },
+  {
+    "id": 29,
+    "domain": "patient_care",
+    "front": "Why does nonverbal communication matter so much with an anxious patient?",
+    "back": "Eye contact, facial expression, tone of voice, and appropriate touch often carry more weight than the words spoken, and help establish trust before the procedure is explained."
+  },
+  {
+    "id": 30,
+    "domain": "patient_care",
+    "front": "Who should interpret for a patient with a language barrier?",
+    "back": "A qualified medical interpreter, not a family member, whenever possible, since family members may filter information, lack medical vocabulary, or compromise the patient's privacy."
+  },
+  {
+    "id": 31,
+    "domain": "patient_care",
+    "front": "How should a radiographer adapt when imaging a hearing-impaired patient?",
+    "back": "Face the patient directly so they can read lips."
+  },
+  {
+    "id": 32,
+    "domain": "patient_care",
+    "front": "What is the teach-back method?",
+    "back": "A strategy to check understanding by asking the patient to repeat back what they heard about the procedure."
+  },
+  {
+    "id": 33,
+    "domain": "patient_care",
+    "front": "What are common pre-exam instructions for a contrast study?",
+    "back": "Dietary restrictions such as NPO for several hours before an upper GI series, and medication adjustments such as holding metformin around iodinated contrast administration."
+  },
+  {
+    "id": 34,
+    "domain": "patient_care",
+    "front": "What should post-exam instructions after a contrast study cover?",
+    "back": "Increasing fluid intake to help clear contrast media, watching for delayed reactions, and any discharge instructions specific to the procedure."
+  },
+  {
+    "id": 35,
+    "domain": "patient_care",
+    "front": "What are the three principles of good body mechanics?",
+    "back": "Balance (wide base of support with feet shoulder-width apart), alignment (straight back, lifting with the legs), and controlled movement (moving smoothly and getting help when needed)."
+  },
+  {
+    "id": 36,
+    "domain": "patient_care",
+    "front": "What is a Hoyer lift used for?",
+    "back": "A mechanical, sling-based lift used for patients who cannot assist at all, such as a paralyzed or severely weak patient."
+  },
+  {
+    "id": 37,
+    "domain": "patient_care",
+    "front": "What is a transfer board?",
+    "back": "A smooth, rigid board bridged between the stretcher and the table that a patient slides across during transfer."
+  },
+  {
+    "id": 38,
+    "domain": "patient_care",
+    "front": "What is a gait belt used for?",
+    "back": "A fabric belt placed around a patient's waist that gives the technologist a secure handhold when assisting an ambulatory but unsteady patient to stand or walk."
+  },
+  {
+    "id": 39,
+    "domain": "patient_care",
+    "front": "How should an IV pump be positioned during imaging, and why?",
+    "back": "Above the level of the heart to prevent backflow; it should be repositioned, not disconnected, when possible, and tubing must never be pulled taut."
+  },
+  {
+    "id": 40,
+    "domain": "patient_care",
+    "front": "How should a Foley catheter drainage bag be handled during imaging?",
+    "back": "Always kept below the level of the bladder to prevent urine reflux and infection; the bag should never be set on the floor or hung on a moving part of the table."
+  },
+  {
+    "id": 41,
+    "domain": "patient_care",
+    "front": "What special consideration applies to a tracheostomy patient during imaging?",
+    "back": "These patients cannot speak normally and may need alternative communication methods, and suction equipment should be accessible nearby."
+  },
+  {
+    "id": 42,
+    "domain": "patient_care",
+    "front": "What is the normal adult resting pulse rate range?",
+    "back": "About 60 to 100 beats per minute."
+  },
+  {
+    "id": 43,
+    "domain": "patient_care",
+    "front": "What is the normal adult resting respiratory rate range?",
+    "back": "About 12 to 20 breaths per minute."
+  },
+  {
+    "id": 44,
+    "domain": "patient_care",
+    "front": "What is a normal adult blood pressure reading?",
+    "back": "Around 120/80 mm Hg."
+  },
+  {
+    "id": 45,
+    "domain": "patient_care",
+    "front": "What is a normal oral body temperature?",
+    "back": "About 98.6 degrees Fahrenheit, or 37 degrees Celsius."
+  },
+  {
+    "id": 46,
+    "domain": "patient_care",
+    "front": "Name three fall prevention measures for imaging patients.",
+    "back": "Locking wheelchair and stretcher wheels, raising side rails when appropriate, and never leaving a confused or sedated patient unattended on an imaging table."
+  },
+  {
+    "id": 47,
+    "domain": "patient_care",
+    "front": "What supplies commonly contain latex and can trigger an allergic reaction?",
+    "back": "Some gloves, tourniquets, and catheter balloons."
+  },
+  {
+    "id": 48,
+    "domain": "patient_care",
+    "front": "What are the first two steps when a patient goes into cardiac or respiratory arrest?",
+    "back": "Call for help or activate the emergency response system, then begin CPR if you are trained and certified."
+  },
+  {
+    "id": 49,
+    "domain": "patient_care",
+    "front": "What should you do if a patient has a seizure during imaging?",
+    "back": "Protect the patient from injury by clearing the area and cushioning the head, rather than restraining the limbs or placing anything in the mouth."
+  },
+  {
+    "id": 50,
+    "domain": "patient_care",
+    "front": "What are the symptoms of hypoglycemia?",
+    "back": "Confusion, sweating, and shakiness, from low blood sugar."
+  },
+  {
+    "id": 51,
+    "domain": "patient_care",
+    "front": "What are the symptoms of hyperglycemia?",
+    "back": "Excessive thirst and fruity-smelling breath; hyperglycemia develops more slowly than hypoglycemia."
+  },
+  {
+    "id": 52,
+    "domain": "patient_care",
+    "front": "How should a suspected spine injury from a fall be handled?",
+    "back": "Stabilize the patient, avoid moving them unnecessarily, and immediately notify the radiologist and nursing staff."
+  },
+  {
+    "id": 53,
+    "domain": "patient_care",
+    "front": "What are the six links in the chain of infection?",
+    "back": "Pathogen, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host."
+  },
+  {
+    "id": 54,
+    "domain": "patient_care",
+    "front": "What are the two types of direct transmission?",
+    "back": "Droplet spread (coughing or sneezing onto someone nearby) and direct contact (touching an infected person or their bodily fluids)."
+  },
+  {
+    "id": 55,
+    "domain": "patient_care",
+    "front": "What are the three types of indirect transmission?",
+    "back": "Airborne spread (small particles traveling on air currents, such as tuberculosis), vehicle-borne spread (a contaminated object like a doorknob or an X-ray table), and vector-borne spread (carried by an insect or animal)."
+  },
+  {
+    "id": 56,
+    "domain": "patient_care",
+    "front": "What is the difference between disinfection and sterilization?",
+    "back": "Disinfection reduces the number of pathogens on a surface but does not necessarily kill all spores, while sterilization destroys all microorganisms including spores."
+  },
+  {
+    "id": 57,
+    "domain": "patient_care",
+    "front": "What is medical asepsis?",
+    "back": "Also called clean technique, it reduces the number of organisms present and their spread, including practices like hand hygiene and wearing clean gloves."
+  },
+  {
+    "id": 58,
+    "domain": "patient_care",
+    "front": "What is sterile technique?",
+    "back": "Also called surgical asepsis, it eliminates all organisms from a field and is used for invasive procedures such as arthrograms."
+  },
+  {
+    "id": 59,
+    "domain": "patient_care",
+    "front": "How long should hands be washed with soap and water under Standard Precautions?",
+    "back": "At least 20 seconds, before and after every patient contact."
+  },
+  {
+    "id": 60,
+    "domain": "patient_care",
+    "front": "Do Standard Precautions apply only to patients known to be infectious?",
+    "back": "No, they apply to every patient, every time, regardless of known infection status, because you cannot always know who is infectious."
+  },
+  {
+    "id": 61,
+    "domain": "patient_care",
+    "front": "What is required for safe injection practices?",
+    "back": "A new sterile needle and syringe for every injection, and never reusing a syringe on more than one patient, even to draw from a shared multi-dose vial."
+  },
+  {
+    "id": 62,
+    "domain": "patient_care",
+    "front": "What PPE is used for contact precautions and for which organisms?",
+    "back": "Gown and gloves, used for organisms spread by touch, such as MRSA or C. difficile."
+  },
+  {
+    "id": 63,
+    "domain": "patient_care",
+    "front": "What PPE is used for droplet precautions and for which organisms?",
+    "back": "A surgical mask, and eye protection if splash is likely, used for organisms spread by large respiratory droplets over short distances, such as influenza."
+  },
+  {
+    "id": 64,
+    "domain": "patient_care",
+    "front": "What PPE is used for airborne precautions and for which organisms?",
+    "back": "A fitted N95 or higher respirator, ideally in a negative pressure room, used for organisms like tuberculosis, measles, and chickenpox."
+  },
+  {
+    "id": 65,
+    "domain": "patient_care",
+    "front": "What is neutropenic precautions?",
+    "back": "Also called reverse isolation, it protects an immunocompromised patient with very low white blood cell counts from the staff and environment, essentially flipping standard precautions to protect the patient rather than the worker."
+  },
+  {
+    "id": 66,
+    "domain": "patient_care",
+    "front": "What is a nosocomial infection?",
+    "back": "Also called a healthcare-associated infection, it is an infection a patient acquires during their stay in a healthcare facility that they did not have on admission."
+  },
+  {
+    "id": 67,
+    "domain": "patient_care",
+    "front": "What is a Safety Data Sheet (SDS)?",
+    "back": "A document, formerly called an MSDS, that lists a substance's hazards, safe handling and storage instructions, required PPE, and first aid measures in case of exposure; one must be available for every hazardous chemical in the department."
+  },
+  {
+    "id": 68,
+    "domain": "patient_care",
+    "front": "How should hazardous chemicals be disposed of in a radiology department?",
+    "back": "Through the correct waste stream, never poured down a standard sink drain unless specifically approved."
+  },
+  {
+    "id": 69,
+    "domain": "patient_care",
+    "front": "What does premedication for a contrast study usually involve?",
+    "back": "A steroid and antihistamine regimen ordered in advance for a patient with a known contrast allergy history."
+  },
+  {
+    "id": 70,
+    "domain": "patient_care",
+    "front": "Why does a shellfish allergy matter for iodinated contrast screening?",
+    "back": "It does not indicate true iodine sensitivity, since iodine itself is not an allergen and shellfish allergens do not cross-react with iodinated contrast, but it is still screened for because any history of significant allergic reactions, to shellfish or anything else, is linked to a modestly higher general risk of a contrast reaction."
+  },
+  {
+    "id": 71,
+    "domain": "patient_care",
+    "front": "Why should a non-contrast exam be performed before a barium exam when multiple studies are scheduled?",
+    "back": "Retained barium can obscure other studies for days."
+  },
+  {
+    "id": 72,
+    "domain": "patient_care",
+    "front": "What is the difference between ionic and non-ionic iodinated contrast?",
+    "back": "Ionic contrast dissociates into charged particles and has higher osmolality, associated with a higher rate of adverse reactions, while non-ionic contrast does not dissociate, has lower osmolality, and is generally safer despite higher cost."
+  },
+  {
+    "id": 73,
+    "domain": "patient_care",
+    "front": "When is barium sulfate contraindicated?",
+    "back": "When bowel perforation is suspected, because free barium in the peritoneal cavity can cause a severe inflammatory reaction called barium peritonitis; a water-soluble iodinated agent is used instead."
+  },
+  {
+    "id": 74,
+    "domain": "patient_care",
+    "front": "What lab value is most directly used to screen for contrast-induced nephropathy risk?",
+    "back": "eGFR, estimated glomerular filtration rate."
+  },
+  {
+    "id": 75,
+    "domain": "patient_care",
+    "front": "What is extravasation?",
+    "back": "Contrast leaking out of the vein into surrounding tissue, causing swelling and pain."
+  },
+  {
+    "id": 76,
+    "domain": "patient_care",
+    "front": "What is phlebitis?",
+    "back": "Inflammation of the vein itself, one of the local complications of contrast injection."
+  },
+  {
+    "id": 77,
+    "domain": "patient_care",
+    "front": "What are examples of a mild contrast reaction and how is it managed?",
+    "back": "Nausea, a few hives, or a feeling of warmth, usually requiring only observation and reassurance."
+  },
+  {
+    "id": 78,
+    "domain": "patient_care",
+    "front": "What are examples of a moderate contrast reaction and how is it managed?",
+    "back": "More extensive hives, wheezing, or vomiting, requiring close monitoring and possibly antihistamine treatment."
+  },
+  {
+    "id": 79,
+    "domain": "patient_care",
+    "front": "What are examples of a severe contrast reaction and how is it managed?",
+    "back": "Laryngeal edema, severe bronchospasm, loss of consciousness, or cardiac arrest, requiring immediate emergency response including epinephrine, oxygen, and activation of the emergency response system."
+  },
+  {
+    "id": 80,
+    "domain": "patient_care",
+    "front": "What should a radiographer do first if a contrast reaction is recognized while the injection is still running?",
+    "back": "Stop the injection, call for help immediately, and stay with the patient."
+  },
+  {
+    "id": 81,
+    "domain": "safety",
+    "front": "What is thermionic emission?",
+    "back": "The process by which the heated tungsten cathode filament releases free electrons when current raises its temperature to roughly 2,200 degrees Celsius."
+  },
+  {
+    "id": 82,
+    "domain": "safety",
+    "front": "What is the space charge?",
+    "back": "The cloud of free electrons that collects near the heated cathode filament before the exposure switch is pressed."
+  },
+  {
+    "id": 83,
+    "domain": "safety",
+    "front": "What does the focusing cup do?",
+    "back": "It is a negatively charged structure surrounding the filament that repels the electron cloud and shapes it into a narrow stream aimed at the focal spot on the anode."
+  },
+  {
+    "id": 84,
+    "domain": "safety",
+    "front": "What percentage of electron kinetic energy converts to x-ray photons at the anode?",
+    "back": "Fewer than 1 percent converts into x-ray photons, while more than 99 percent converts to heat, which is why rotating anodes and cooling systems are essential."
+  },
+  {
+    "id": 85,
+    "domain": "safety",
+    "front": "What is bremsstrahlung radiation?",
+    "back": "X-ray photons produced when an incoming electron is deflected and slowed by the nucleus of a tungsten atom, with the lost energy emitted as a photon."
+  },
+  {
+    "id": 86,
+    "domain": "safety",
+    "front": "Why does bremsstrahlung radiation produce a continuous energy spectrum?",
+    "back": "Because the amount of energy an electron loses depends on how close it passes to the nucleus and how much its path bends, so photon energies vary continuously rather than taking one fixed value."
+  },
+  {
+    "id": 87,
+    "domain": "safety",
+    "front": "What is characteristic radiation?",
+    "back": "A photon released with a fixed, discrete energy when an incoming electron ejects an inner shell electron from a tungsten atom and an outer shell electron drops down to fill the vacancy."
+  },
+  {
+    "id": 88,
+    "domain": "safety",
+    "front": "At what kVp does characteristic radiation begin to appear in a tungsten target beam?",
+    "back": "The kVp must exceed the K-shell binding energy of tungsten, approximately 69.5 keV, so characteristic x-rays appear only once kVp is set above roughly 70."
+  },
+  {
+    "id": 89,
+    "domain": "safety",
+    "front": "How are x-ray wavelength, frequency, and photon energy related?",
+    "back": "Wavelength and frequency are inversely related, and since energy is directly proportional to frequency, a shorter wavelength always means a higher photon energy."
+  },
+  {
+    "id": 90,
+    "domain": "safety",
+    "front": "What controls x-ray beam quality?",
+    "back": "Beam quality, the penetrating power of the beam, is controlled primarily by kVp and is measured using half-value layer."
+  },
+  {
+    "id": 91,
+    "domain": "safety",
+    "front": "What is half-value layer (HVL)?",
+    "back": "The thickness of a specified material needed to reduce the intensity of the x-ray beam by half, used as the measure of beam quality."
+  },
+  {
+    "id": 92,
+    "domain": "safety",
+    "front": "What controls x-ray beam quantity?",
+    "back": "Beam quantity, the total number of photons in the beam, is controlled primarily by mAs, though raising kVp also increases quantity as a side effect."
+  },
+  {
+    "id": 93,
+    "domain": "safety",
+    "front": "What is primary radiation?",
+    "back": "The useful beam as it leaves the x-ray tube and travels toward the patient, carrying the energy that will form the image."
+  },
+  {
+    "id": 94,
+    "domain": "safety",
+    "front": "What is remnant (exit) radiation?",
+    "back": "The portion of the primary beam remaining after passing through the patient, having lost photons to absorption and scatter, and it is this beam that reaches the image receptor."
+  },
+  {
+    "id": 95,
+    "domain": "safety",
+    "front": "State the inverse square law formula.",
+    "back": "I1 times D1 squared equals I2 times D2 squared, where I is intensity and D is distance from the source."
+  },
+  {
+    "id": 96,
+    "domain": "safety",
+    "front": "Calculation: Exposure is 100 mR at 40 inches SID. What is the exposure at 80 inches SID?",
+    "back": "Doubling the distance from 40 to 80 inches cuts intensity to one quarter, so the exposure becomes 25 mR."
+  },
+  {
+    "id": 97,
+    "domain": "safety",
+    "front": "Calculation: Exposure is 20 mR at 72 inches. What is the exposure at 36 inches?",
+    "back": "Halving the distance from 72 to 36 inches quadruples the intensity, so the exposure becomes 80 mR."
+  },
+  {
+    "id": 98,
+    "domain": "safety",
+    "front": "Calculation: A beam measures 400 mR at 36 inches. What is the intensity at 72 inches?",
+    "back": "Doubling the distance from 36 to 72 inches cuts intensity to one quarter, so the intensity becomes 100 mR."
+  },
+  {
+    "id": 99,
+    "domain": "safety",
+    "front": "What is the photoelectric effect?",
+    "back": "A photon is completely absorbed by an inner shell electron, ejecting that electron from the atom and depositing all the photon's energy with no photon left to scatter."
+  },
+  {
+    "id": 100,
+    "domain": "safety",
+    "front": "How does photoelectric absorption relate to atomic number?",
+    "back": "It increases dramatically with atomic number, varying with the cube of atomic number, which is why bone absorbs far more radiation than soft tissue and appears white on the image."
+  },
+  {
+    "id": 101,
+    "domain": "safety",
+    "front": "What is the Compton effect?",
+    "back": "A photon strikes a loosely bound outer shell electron and ejects it, but instead of being absorbed the photon scatters off in a new direction carrying reduced energy."
+  },
+  {
+    "id": 102,
+    "domain": "safety",
+    "front": "What does Compton scattering depend on, and why does it matter for staff radiation safety?",
+    "back": "It depends mainly on tissue electron density rather than atomic number, and since it dominates in soft tissue at diagnostic energies, it is the main source of occupational scatter exposure to radiographers."
+  },
+  {
+    "id": 103,
+    "domain": "safety",
+    "front": "What is coherent (Thomson) scattering?",
+    "back": "A low energy photon causes an atom to vibrate briefly and is re-emitted in a new direction at essentially the same energy, with no ionization occurring."
+  },
+  {
+    "id": 104,
+    "domain": "safety",
+    "front": "What is attenuation?",
+    "back": "The overall reduction in x-ray beam intensity as it passes through the patient, increasing with tissue thickness, density, and atomic number."
+  },
+  {
+    "id": 105,
+    "domain": "safety",
+    "front": "Which SI unit measures absorbed dose, and what is its older conventional equivalent?",
+    "back": "Absorbed dose is measured in gray (Gy), expressed as joules per kilogram, and the older conventional unit is the rad, where 1 gray equals 100 rad."
+  },
+  {
+    "id": 106,
+    "domain": "safety",
+    "front": "Which SI unit measures dose equivalent, and what is its older conventional equivalent?",
+    "back": "Dose equivalent is measured in sievert (Sv), and the older conventional unit is the rem, where 1 sievert equals 100 rem."
+  },
+  {
+    "id": 107,
+    "domain": "safety",
+    "front": "For diagnostic x-rays, how do gray and sievert compare numerically?",
+    "back": "The radiation weighting factor for diagnostic x-rays is 1, so absorbed dose in gray and dose equivalent in sievert end up numerically equal."
+  },
+  {
+    "id": 108,
+    "domain": "safety",
+    "front": "Which unit measures exposure, and what does it describe?",
+    "back": "Exposure is measured in coulombs per kilogram (C/kg) and describes the amount of ionization produced in a specific mass of air by the beam, with the roentgen as its older conventional unit."
+  },
+  {
+    "id": 109,
+    "domain": "safety",
+    "front": "What is effective dose, and what unit is it measured in?",
+    "back": "Effective dose, measured in sievert, applies tissue weighting factors for each organ's radiosensitivity to produce one number representing the equivalent whole body risk from an uneven dose distribution."
+  },
+  {
+    "id": 110,
+    "domain": "safety",
+    "front": "What is air kerma?",
+    "back": "A quantity measured in gray representing the kinetic energy released in a small mass of air at a given point, now the standard quantity fluoroscopic equipment reports for tracking patient skin dose."
+  },
+  {
+    "id": 111,
+    "domain": "safety",
+    "front": "Calculation: A patient receives an absorbed dose of 0.05 gray. What is that dose in rad?",
+    "back": "Since 1 gray equals 100 rad, 0.05 gray equals 5 rad."
+  },
+  {
+    "id": 112,
+    "domain": "safety",
+    "front": "Calculation: A worker's dose equivalent for the year is 0.1 sievert. What is that in rem?",
+    "back": "Since 1 sievert equals 100 rem, 0.1 sievert equals 10 rem."
+  },
+  {
+    "id": 113,
+    "domain": "safety",
+    "front": "What is linear energy transfer (LET)?",
+    "back": "A measure of how much energy a type of radiation deposits per unit length as it travels through tissue, with alpha particles and neutrons producing high LET and diagnostic x-rays producing low LET."
+  },
+  {
+    "id": 114,
+    "domain": "safety",
+    "front": "What is relative biological effectiveness (RBE)?",
+    "back": "A comparison of how much biological damage a given radiation type causes against a reference beam of 250 kVp x-rays delivering the same absorbed dose, with high LET radiation generally producing a higher RBE."
+  },
+  {
+    "id": 115,
+    "domain": "safety",
+    "front": "State the law of Bergonie and Tribondeau.",
+    "back": "Cells are most radiosensitive when they divide frequently, are undifferentiated or immature, and have a long dividing future ahead of them."
+  },
+  {
+    "id": 116,
+    "domain": "safety",
+    "front": "Name four highly radiosensitive cell types according to the law of Bergonie and Tribondeau.",
+    "back": "Blood-forming cells of the bone marrow, the lining of the gastrointestinal tract, reproductive cells, and the basal layer of the skin."
+  },
+  {
+    "id": 117,
+    "domain": "safety",
+    "front": "Which cell types are among the most radioresistant, and why?",
+    "back": "Mature nerve cells and muscle cells, because they rarely if ever divide."
+  },
+  {
+    "id": 118,
+    "domain": "safety",
+    "front": "What is LD50/30, and what is its approximate value in humans?",
+    "back": "The lethal dose to 50 percent of an exposed population within 30 days, approximately 3 to 4 gray delivered as a single whole body dose without medical treatment."
+  },
+  {
+    "id": 119,
+    "domain": "safety",
+    "front": "What is the oxygen effect in radiobiology?",
+    "back": "Well-oxygenated cells are measurably more sensitive to radiation damage than hypoxic, poorly oxygenated cells, a principle relevant to radiation therapy planning for tumors with poor blood supply."
+  },
+  {
+    "id": 120,
+    "domain": "safety",
+    "front": "What defines a deterministic (tissue reaction) effect?",
+    "back": "It has a threshold dose below which the effect does not occur, and once that threshold is exceeded, severity increases as dose increases. Skin erythema, cataracts, epilation, and sterility are examples."
+  },
+  {
+    "id": 121,
+    "domain": "safety",
+    "front": "What defines a stochastic effect?",
+    "back": "There is no dose threshold, so any dose carries some probability of the effect occurring. As dose increases the probability rises, but the severity of the effect if it occurs does not change. Cancer and genetic effects are the two classic examples."
+  },
+  {
+    "id": 122,
+    "domain": "safety",
+    "front": "How do early and late radiation effects differ in timing?",
+    "back": "Early effects appear within minutes to weeks of exposure, such as skin erythema or acute radiation syndrome, while late effects may not appear for years or decades, such as cataracts or cancer."
+  },
+  {
+    "id": 123,
+    "domain": "safety",
+    "front": "How does chronic exposure differ from acute exposure in biological effect?",
+    "back": "The same total dose delivered chronically over a long period is generally far less harmful than the identical total dose delivered acutely, because cells have time to repair sublethal damage between fractions."
+  },
+  {
+    "id": 124,
+    "domain": "safety",
+    "front": "At what approximate dose range can the lens of the eye develop cataracts?",
+    "back": "Roughly 0.5 to 2 gray, often with a latent period of years before the cataract becomes clinically apparent."
+  },
+  {
+    "id": 125,
+    "domain": "safety",
+    "front": "At what approximate doses do skin erythema and epilation occur?",
+    "back": "Erythema appears around 2 gray, and epilation, meaning hair loss, occurs at higher doses in the range of 3 to 5 gray."
+  },
+  {
+    "id": 126,
+    "domain": "safety",
+    "front": "At what dose can temporary male sterility occur, and what dose causes permanent sterility?",
+    "back": "Temporary sterility in males is possible from doses as low as approximately 0.15 gray, while permanent sterility in either sex requires several gray."
+  },
+  {
+    "id": 127,
+    "domain": "safety",
+    "front": "List the four stages of acute radiation syndrome.",
+    "back": "A prodromal stage of nausea and malaise, a latent stage of temporary improvement, a manifest illness stage where organ damage becomes apparent, and finally recovery or death."
+  },
+  {
+    "id": 128,
+    "domain": "safety",
+    "front": "What is hematopoietic syndrome, and at what dose does it begin?",
+    "back": "A pattern of illness starting around 1 gray whole body dose, caused by damage to bone marrow stem cells, leading to infection risk from low white cell counts and bleeding risk from low platelets."
+  },
+  {
+    "id": 129,
+    "domain": "safety",
+    "front": "What is gastrointestinal syndrome, and at what dose range does it occur?",
+    "back": "A pattern of illness occurring at whole body doses of roughly 6 to 10 gray, caused by destruction of the intestinal lining, producing severe fluid loss and infection with death typically within one to two weeks."
+  },
+  {
+    "id": 130,
+    "domain": "safety",
+    "front": "What is central nervous system (cerebrovascular) syndrome, and at what dose does it occur?",
+    "back": "A pattern of illness occurring at whole body doses generally above 50 gray, causing cerebral edema and vascular collapse, with death typically within hours to a few days. It is the fastest and most severe acute radiation syndrome."
+  },
+  {
+    "id": 131,
+    "domain": "safety",
+    "front": "What happens if radiation exposure occurs during the preimplantation stage of pregnancy, roughly the first two weeks after conception?",
+    "back": "The prevailing model is all-or-none, meaning a significant dose either kills the embryo outright or the surviving cells compensate completely with no lasting defect."
+  },
+  {
+    "id": 132,
+    "domain": "safety",
+    "front": "Why is the organogenesis stage of pregnancy, roughly weeks two through eight, the period of greatest risk for congenital malformations?",
+    "back": "The developing organs are actively forming during this stage, making radiation exposure most likely to cause structural birth defects."
+  },
+  {
+    "id": 133,
+    "domain": "safety",
+    "front": "During which gestational age window is the risk of radiation-induced mental retardation and microcephaly highest?",
+    "back": "Roughly week eight to week fifteen, within the fetal stage, when the central nervous system is most vulnerable to growth and developmental effects."
+  },
+  {
+    "id": 134,
+    "domain": "safety",
+    "front": "How does increasing kVp affect patient skin dose?",
+    "back": "Increasing kVp increases beam penetration, so fewer photons are needed to reach the receptor. This generally lowers patient skin dose, though it also lowers subject contrast."
+  },
+  {
+    "id": 135,
+    "domain": "safety",
+    "front": "How does increasing mAs affect patient dose?",
+    "back": "Increasing mAs increases the number of photons in the beam and raises patient dose in a directly proportional way, without changing beam quality."
+  },
+  {
+    "id": 136,
+    "domain": "safety",
+    "front": "What does automatic exposure control (AEC) do?",
+    "back": "AEC uses ionization chambers positioned between the patient and the image receptor to terminate the exposure once enough radiation has reached the detector, protecting against both overexposure and underexposure."
+  },
+  {
+    "id": 137,
+    "domain": "safety",
+    "front": "What is a common repeat cause related to AEC?",
+    "back": "Selecting the wrong AEC chamber or mispositioning the patient over the chambers, which either cuts the exposure short or lets it run too long."
+  },
+  {
+    "id": 138,
+    "domain": "safety",
+    "front": "Why is tight collimation one of the most effective dose reduction tools?",
+    "back": "Collimating to the smallest field size that covers the anatomy of interest reduces the volume of tissue irradiated and reduces scatter production, which lowers dose and improves image contrast."
+  },
+  {
+    "id": 139,
+    "domain": "safety",
+    "front": "Why is a repeat exposure especially costly in terms of dose?",
+    "back": "A repeat is effectively a doubling of dose for that view, since the patient receives the full exposure twice."
+  },
+  {
+    "id": 140,
+    "domain": "safety",
+    "front": "Why do pediatric patients need reduced technique?",
+    "back": "Their tissues are more radiosensitive and a smaller body part requires less penetration to produce a diagnostic image."
+  },
+  {
+    "id": 141,
+    "domain": "safety",
+    "front": "Why are immobilization devices preferred over manually holding a pediatric patient?",
+    "back": "Immobilization devices eliminate motion without requiring anyone to be in the room, avoiding unnecessary occupational exposure to a family member or staff."
+  },
+  {
+    "id": 142,
+    "domain": "safety",
+    "front": "How does larger body habitus affect exposure technique?",
+    "back": "A larger body habitus generally requires higher kVp and mAs to penetrate adequately, which increases patient dose compared to an average-sized patient."
+  },
+  {
+    "id": 143,
+    "domain": "safety",
+    "front": "What special considerations apply to imaging a pregnant patient?",
+    "back": "Shielding when appropriate, tight collimation, and confirming clinical necessity before proceeding, since the fetus is especially sensitive to radiation during organogenesis."
+  },
+  {
+    "id": 144,
+    "domain": "safety",
+    "front": "What is the purpose of filtration in the x-ray beam?",
+    "back": "Filtration removes the lowest energy photons before they reach the patient. Those photons would be absorbed in skin and superficial tissue without contributing to the image, so removing them reduces skin and organ dose."
+  },
+  {
+    "id": 145,
+    "domain": "safety",
+    "front": "What is beam hardening?",
+    "back": "The rise in average beam energy that results from filtration removing the lowest energy photons, leaving a beam with fewer low-energy photons and a higher average energy."
+  },
+  {
+    "id": 146,
+    "domain": "safety",
+    "front": "What is the NCRP Report 102 minimum total filtration for a general purpose unit above 70 kVp?",
+    "back": "2.5 millimeters aluminum equivalent, with lower minimums permitted at lower operating kVp ranges."
+  },
+  {
+    "id": 147,
+    "domain": "safety",
+    "front": "What makes up total beam filtration?",
+    "back": "A combination of inherent filtration from the tube housing and window, plus added filtration, usually aluminum sheets placed in the collimator housing."
+  },
+  {
+    "id": 148,
+    "domain": "safety",
+    "front": "Why does modern digital equipment record an exposure index for each image?",
+    "back": "It supports quality assurance and regulatory compliance by documenting the actual radiation exposure delivered for each digital image, and many facilities log this patient dose data as part of the permanent record."
+  },
+  {
+    "id": 149,
+    "domain": "safety",
+    "front": "What is detective quantum efficiency (DQE)?",
+    "back": "A measure of how efficiently a digital detector converts incoming x-ray photons into usable image signal. A higher DQE detector can produce a diagnostic image with fewer photons, meaning lower patient dose."
+  },
+  {
+    "id": 150,
+    "domain": "safety",
+    "front": "Why is overexposure a hidden risk with digital imaging?",
+    "back": "Digital receptors have wide exposure latitude, so an image can look acceptable across a broad range of exposures, meaning it can look fine even when the patient received far more dose than necessary. The exposure indicator must be actively monitored."
+  },
+  {
+    "id": 151,
+    "domain": "safety",
+    "front": "Why does using a grid increase patient dose?",
+    "back": "A higher grid ratio requires higher mAs to compensate for radiation the grid absorbs, including some useful primary beam along with the scatter."
+  },
+  {
+    "id": 152,
+    "domain": "safety",
+    "front": "When is using a grid not justified?",
+    "back": "On a body part too thin to generate clinically significant scatter, using a grid unnecessarily raises patient dose without a meaningful gain in image quality."
+  },
+  {
+    "id": 153,
+    "domain": "safety",
+    "front": "How does pulsed fluoroscopy reduce dose compared to continuous fluoroscopy?",
+    "back": "Pulsed fluoroscopy delivers the beam in short pulses instead of a continuous stream, which can substantially lower dose at the same perceived frame rate since the eye perceives pulsed images as smooth motion."
+  },
+  {
+    "id": 154,
+    "domain": "safety",
+    "front": "Why does minimizing total fluoroscopy time matter so much for dose?",
+    "back": "Dose accumulates continuously while the fluoroscopic beam is on, so reducing beam-on time is one of the most direct controls available for both patient and staff dose."
+  },
+  {
+    "id": 155,
+    "domain": "safety",
+    "front": "What does the fluoroscopic cumulative timer do?",
+    "back": "It sounds an audible signal at preset intervals, typically every five minutes of beam-on time, to remind the operator how long the beam has actually been active."
+  },
+  {
+    "id": 156,
+    "domain": "safety",
+    "front": "What does automatic brightness control (ABC) do in fluoroscopy?",
+    "back": "It automatically adjusts kVp and mA to maintain consistent image brightness as tissue thickness or density changes under the beam, similar in concept to AEC in radiography."
+  },
+  {
+    "id": 157,
+    "domain": "safety",
+    "front": "How does image receptor positioning affect fluoroscopic dose?",
+    "back": "Keeping the receptor or image intensifier as close to the patient as possible reduces the tissue the beam must traverse and improves image quality, allowing a lower technique."
+  },
+  {
+    "id": 158,
+    "domain": "safety",
+    "front": "Why does fluoroscopic magnification mode increase patient dose?",
+    "back": "Magnification mode increases spatial resolution but requires a higher mA to maintain adequate photon flux at the smaller field of view, so it should only be used when diagnostic benefit justifies the dose cost."
+  },
+  {
+    "id": 159,
+    "domain": "safety",
+    "front": "What is last image hold and why does it reduce dose?",
+    "back": "It displays the final fluoroscopic image on the monitor after the beam turns off, letting the physician review it without keeping the beam active, avoiding re-activation of the beam just to look again."
+  },
+  {
+    "id": 160,
+    "domain": "safety",
+    "front": "What is the minimum source-to-skin distance for a stationary fluoroscopic unit?",
+    "back": "38 centimeters, as regulated under 21 CFR, the federal performance standard for fluoroscopic devices."
+  },
+  {
+    "id": 161,
+    "domain": "safety",
+    "front": "What is the minimum source-to-skin distance for a mobile fluoroscopic unit such as a C-arm?",
+    "back": "30 centimeters, as regulated under 21 CFR."
+  },
+  {
+    "id": 162,
+    "domain": "safety",
+    "front": "What is a dose area product (DAP) meter?",
+    "back": "A device that measures the product of dose and beam area, giving a single value that reflects total energy delivered to the patient across an entire fluoroscopic procedure, useful for comparing and tracking cumulative dose."
+  },
+  {
+    "id": 163,
+    "domain": "safety",
+    "front": "What are the Image Wisely and Image Gently campaigns?",
+    "back": "Image Wisely focuses on reducing unnecessary radiation exposure in adult imaging, and Image Gently focuses specifically on pediatric imaging. Both provide practical guidance and protocols supporting dose reduction."
+  },
+  {
+    "id": 164,
+    "domain": "safety",
+    "front": "What does ALARA stand for and what does it apply to?",
+    "back": "As Low As Reasonably Achievable. Per ARRT's guidance, ALARA applies specifically to personnel protection, not patient protection."
+  },
+  {
+    "id": 165,
+    "domain": "safety",
+    "front": "How is patient dose managed differently from personnel dose under this framework?",
+    "back": "Patient dose is managed through exposure factor selection, filtration, and collimation. ALARA is the guiding philosophy for keeping occupational dose to staff as low as reasonably achievable."
+  },
+  {
+    "id": 166,
+    "domain": "safety",
+    "front": "What is a common student mistake regarding ALARA?",
+    "back": "Blending ALARA together with patient protection principles, when ALARA is actually specific to occupational (personnel) protection."
+  },
+  {
+    "id": 167,
+    "domain": "safety",
+    "front": "What are the three sources of radiation exposure to personnel in an x-ray suite?",
+    "back": "The primary x-ray beam, secondary radiation (scatter and leakage), and specifically the patient as the largest source of scatter in the room."
+  },
+  {
+    "id": 168,
+    "domain": "safety",
+    "front": "Why is the primary x-ray beam considered the most dangerous source of personnel exposure?",
+    "back": "It carries the highest intensity radiation in the room, and personnel should never have any part of their body in the primary beam."
+  },
+  {
+    "id": 169,
+    "domain": "safety",
+    "front": "What is scatter radiation?",
+    "back": "Radiation that has changed direction and lost some energy after interacting with matter, such as the patient's tissue."
+  },
+  {
+    "id": 170,
+    "domain": "safety",
+    "front": "What is leakage radiation?",
+    "back": "Radiation that escapes through the x-ray tube housing itself despite the housing's shielding."
+  },
+  {
+    "id": 171,
+    "domain": "safety",
+    "front": "Why is the patient the largest source of scatter radiation in the room during an exposure?",
+    "back": "The patient's own tissue is what most of the primary beam interacts with, so standing close to the patient during an exposure increases occupational dose even though the technologist is never in the primary beam."
+  },
+  {
+    "id": 172,
+    "domain": "safety",
+    "front": "What is the time principle of radiation protection?",
+    "back": "The less time spent near a radiation source, the lower the cumulative dose received, since dose accumulates linearly with exposure duration."
+  },
+  {
+    "id": 173,
+    "domain": "safety",
+    "front": "What does the inverse square law state?",
+    "back": "Radiation intensity is inversely proportional to the square of the distance from the source."
+  },
+  {
+    "id": 174,
+    "domain": "safety",
+    "front": "A technologist at 1 meter from a fluoroscopic tube receives 10 milligray per hour. What is the exposure rate at 2 meters?",
+    "back": "2.5 milligray per hour, since 10 divided by 2 squared (4) equals 2.5, per the inverse square law."
+  },
+  {
+    "id": 175,
+    "domain": "safety",
+    "front": "A technologist at 1 meter from a fluoroscopic tube receives 10 milligray per hour. What is the exposure rate at 3 meters?",
+    "back": "About 1.1 milligray per hour, since 10 divided by 3 squared (9) is approximately 1.1, per the inverse square law."
+  },
+  {
+    "id": 176,
+    "domain": "safety",
+    "front": "What is the shielding principle of radiation protection?",
+    "back": "Placing attenuating material between a person and the radiation source, using devices like lead aprons, thyroid shields, lead glasses, and fixed or mobile barriers."
+  },
+  {
+    "id": 177,
+    "domain": "safety",
+    "front": "What is the minimum lead equivalent for a standard protective apron, and how much scatter does it attenuate?",
+    "back": "0.5 millimeter lead equivalent per NCRP Report 102, attenuating roughly 90 to 95 percent of scatter radiation at typical diagnostic energies. Aprons must be inspected periodically for cracks that would defeat that attenuation."
+  },
+  {
+    "id": 178,
+    "domain": "safety",
+    "front": "What are the protection rules for mobile radiography exposures?",
+    "back": "Retreat as far as the exposure cord and room allow, ideally a minimum of 2 meters from the patient and tube, and never hold a patient or image receptor during exposure except in genuine emergencies, wearing an apron and standing as far from the beam as possible if unavoidable."
+  },
+  {
+    "id": 179,
+    "domain": "safety",
+    "front": "What are the minimum lead equivalents for the fluoroscopic protective curtain and the Bucky slot cover?",
+    "back": "Both are required to be at least 0.25 millimeter lead equivalent. The curtain hangs between the fluoroscopist and patient, and the Bucky slot cover automatically shields the Bucky slot opening when the spot film device is withdrawn."
+  },
+  {
+    "id": 180,
+    "domain": "safety",
+    "front": "What are the requirements for the fluoroscopic high level control and exposure switch?",
+    "back": "The high level control switch requires continuous manual engagement and cannot latch on unintentionally. The exposure switch itself must be a dead man type switch, so exposure continues only while it is actively held and stops the instant it is released."
+  },
+  {
+    "id": 181,
+    "domain": "safety",
+    "front": "What is the advantage of remote controlled fluoroscopy?",
+    "back": "It allows the operator to step out of the room entirely for certain procedures, the most effective distance based protection available for that equipment type."
+  },
+  {
+    "id": 182,
+    "domain": "safety",
+    "front": "What are the three main types of personnel dosimeters?",
+    "back": "The thermoluminescent dosimeter (TLD), the optically stimulated luminescence dosimeter (OSL), and the direct ion storage (DIS) dosimeter."
+  },
+  {
+    "id": 183,
+    "domain": "safety",
+    "front": "How does a TLD dosimeter work?",
+    "back": "It releases trapped energy as light when heated after exposure, and the amount of light released is proportional to the dose received."
+  },
+  {
+    "id": 184,
+    "domain": "safety",
+    "front": "How does an OSL dosimeter work?",
+    "back": "It releases trapped energy as light when stimulated with a specific laser wavelength, and unlike a TLD it can be reanalyzed."
+  },
+  {
+    "id": 185,
+    "domain": "safety",
+    "front": "How does a DIS dosimeter work?",
+    "back": "It uses an ion chamber design that allows a real time readout of dose, unlike TLD or OSL devices."
+  },
+  {
+    "id": 186,
+    "domain": "safety",
+    "front": "Where should a dosimeter be worn, and when is a second one used?",
+    "back": "The primary dosimeter is worn consistently at collar level outside the lead apron, to reflect dose to unshielded areas like the head, neck, and lens of the eye. A second dosimeter is sometimes worn under the apron at waist level for pregnant workers or for precise organ dose estimation."
+  },
+  {
+    "id": 187,
+    "domain": "safety",
+    "front": "What are examples of improper dosimeter handling?",
+    "back": "Wearing it upside down, sharing it between individuals, or leaving it somewhere it might record artificial exposure, such as near an x-ray unit or in a hot car."
+  },
+  {
+    "id": 188,
+    "domain": "safety",
+    "front": "What is the annual effective dose limit for occupationally exposed radiation workers?",
+    "back": "50 millisievert, equivalent to 5 rem in the older conventional unit."
+  },
+  {
+    "id": 189,
+    "domain": "safety",
+    "front": "How is the lifetime cumulative effective dose limit for a radiation worker calculated?",
+    "back": "The worker's age in years multiplied by 10 millisievert, equivalent to 1 rem per year of age."
+  },
+  {
+    "id": 190,
+    "domain": "safety",
+    "front": "What is the annual dose limit for members of the public?",
+    "back": "1 millisievert, equivalent to 0.1 rem, reflecting that the public has not chosen occupational exposure and receives no direct benefit from it."
+  },
+  {
+    "id": 191,
+    "domain": "safety",
+    "front": "What is the monthly dose limit for a declared pregnant worker's embryo or fetus?",
+    "back": "0.5 millisievert per month, equivalent to 0.05 rem per month, once the worker has formally declared her pregnancy in writing."
+  },
+  {
+    "id": 192,
+    "domain": "safety",
+    "front": "What is the total gestational dose limit goal for a declared pregnant worker?",
+    "back": "Keeping total fetal dose for the entire pregnancy under 5 millisievert, equivalent to 0.5 rem."
+  },
+  {
+    "id": 193,
+    "domain": "safety",
+    "front": "How must facilities handle dosimetry records and readings that approach an investigational level?",
+    "back": "Dosimetry records must be evaluated regularly and maintained as permanent occupational records documenting compliance and career dose, and any reading approaching or exceeding an investigational level must be promptly reviewed, investigated, and documented."
+  },
+  {
+    "id": 194,
+    "domain": "safety",
+    "front": "How should short lived radioactive material generally be handled before disposal?",
+    "back": "It should decay in secured storage behind adequate shielding before being disposed of as ordinary waste."
+  },
+  {
+    "id": 195,
+    "domain": "safety",
+    "front": "What must be confirmed before radioactive material or an area is released from radioactive material control?",
+    "back": "Documented survey and wipe testing to confirm no contamination remains."
+  },
+  {
+    "id": 196,
+    "domain": "image_production",
+    "front": "What is receptor exposure and what factor controls it primarily?",
+    "back": "Receptor exposure is the amount of radiation reaching the image receptor. It is controlled primarily by mAs, which has a direct, straight-line relationship with the number of photons produced at the tube."
+  },
+  {
+    "id": 197,
+    "domain": "image_production",
+    "front": "What does mAs control, and what does it NOT affect?",
+    "back": "mAs controls receptor exposure only. It has no effect on contrast, spatial resolution, or distortion because it does not change beam energy or geometry."
+  },
+  {
+    "id": 198,
+    "domain": "image_production",
+    "front": "How is mAs calculated?",
+    "back": "mAs equals mA (tube current) multiplied by exposure time in seconds. For example, 200 mA at 0.05 seconds equals 10 mAs."
+  },
+  {
+    "id": 199,
+    "domain": "image_production",
+    "front": "What is the 15 percent rule?",
+    "back": "Increasing kVp by 15 percent roughly doubles receptor exposure. The standard dose-reduction technique is to raise kVp 15 percent and cut mAs in half, keeping receptor exposure about the same while lowering patient dose."
+  },
+  {
+    "id": 200,
+    "domain": "image_production",
+    "front": "List all the image quality categories that kVp affects.",
+    "back": "kVp raises receptor exposure, lowers image contrast (longer gray scale), and lowers subject contrast. It does not directly affect spatial resolution or distortion."
+  },
+  {
+    "id": 201,
+    "domain": "image_production",
+    "front": "Why does raising kVp lower image contrast?",
+    "back": "Higher kVp produces more scatter relative to primary photons, which fogs the image and produces a longer gray scale with more shades of gray."
+  },
+  {
+    "id": 202,
+    "domain": "image_production",
+    "front": "Why does raising kVp lower subject contrast?",
+    "back": "A higher-energy beam is less selectively absorbed by dense structures like bone versus soft tissue, so the true difference in absorption between tissues shrinks."
+  },
+  {
+    "id": 203,
+    "domain": "image_production",
+    "front": "Calculation: mA is 300 and time is 0.04 seconds. What is the mAs?",
+    "back": "300 times 0.04 equals 12 mAs."
+  },
+  {
+    "id": 204,
+    "domain": "image_production",
+    "front": "Calculation: a technique of 200 mA at 0.05 sec gives 10 mAs. Time is cut to 0.025 sec to reduce motion, halving receptor exposure. What mA restores the original 10 mAs?",
+    "back": "mA must be doubled to 400, since 400 times 0.025 equals 10 mAs, restoring the original receptor exposure at the shorter exposure time."
+  },
+  {
+    "id": 205,
+    "domain": "image_production",
+    "front": "What does focal spot size control?",
+    "back": "Focal spot size affects spatial resolution only. A smaller focal spot produces less penumbra and a sharper image, but has no effect on receptor exposure, contrast, or distortion."
+  },
+  {
+    "id": 206,
+    "domain": "image_production",
+    "front": "Why is a larger focal spot sometimes used for thick body parts despite lower resolution?",
+    "back": "A larger focal spot tolerates higher heat loading, which is needed for the higher mA and longer exposure times that thick parts often require, trading some sharpness for tube protection."
+  },
+  {
+    "id": 207,
+    "domain": "image_production",
+    "front": "What image quality factor does motion affect?",
+    "back": "Motion affects spatial resolution only. It blurs recorded detail but does not change receptor exposure, contrast, or distortion."
+  },
+  {
+    "id": 208,
+    "domain": "image_production",
+    "front": "Describe the anode heel effect and what it affects.",
+    "back": "The anode heel effect affects receptor exposure only. Because the anode is angled, beam intensity is lower toward the anode end of the tube and higher toward the cathode end."
+  },
+  {
+    "id": 209,
+    "domain": "image_production",
+    "front": "How do you use the anode heel effect for positioning a chest or hip image?",
+    "back": "Place the thicker part of the anatomy, such as the thoracic spine or the femur, toward the cathode end of the tube, where exposure is higher, to help even out density across the image."
+  },
+  {
+    "id": 210,
+    "domain": "image_production",
+    "front": "What three image quality categories does SID affect?",
+    "back": "SID affects receptor exposure, spatial resolution, and distortion."
+  },
+  {
+    "id": 211,
+    "domain": "image_production",
+    "front": "What law governs how SID affects receptor exposure?",
+    "back": "The inverse square law: intensity is inversely proportional to the square of the distance from the source."
+  },
+  {
+    "id": 212,
+    "domain": "image_production",
+    "front": "Calculation: a technique of 10 mAs is adequate at 40 inches SID. What mAs is needed at 72 inches?",
+    "back": "New mAs equals old mAs times (new distance squared divided by old distance squared): 10 times (72 squared divided by 40 squared) equals 10 times 3.24, or 32.4 mAs."
+  },
+  {
+    "id": 213,
+    "domain": "image_production",
+    "front": "How does SID affect spatial resolution and distortion?",
+    "back": "A longer SID reduces penumbra, sharpening the image, and produces less magnification of the part, reducing size distortion."
+  },
+  {
+    "id": 214,
+    "domain": "image_production",
+    "front": "What three image quality categories does OID affect, and how does that differ from SID?",
+    "back": "OID affects image contrast, spatial resolution, and distortion, but unlike SID it does not directly control receptor exposure."
+  },
+  {
+    "id": 215,
+    "domain": "image_production",
+    "front": "Why does increasing OID typically improve image contrast?",
+    "back": "Moving the part farther from the receptor lets scattered photons diverge away from the receptor and miss it, the air-gap effect, which typically improves rather than degrades contrast."
+  },
+  {
+    "id": 216,
+    "domain": "image_production",
+    "front": "What is the general positioning rule for OID?",
+    "back": "Keep OID as small as possible for every projection unless magnification is being deliberately used, such as in some cross-table lateral projections."
+  },
+  {
+    "id": 217,
+    "domain": "image_production",
+    "front": "Define size distortion and shape distortion.",
+    "back": "Size distortion is magnification. Shape distortion is foreshortening or elongation caused by misalignment of the central ray, tube, or part."
+  },
+  {
+    "id": 218,
+    "domain": "image_production",
+    "front": "How is magnification calculated?",
+    "back": "Magnification equals SID divided by SOD (source-to-object distance), where SOD equals SID minus OID."
+  },
+  {
+    "id": 219,
+    "domain": "image_production",
+    "front": "Differentiate foreshortening from elongation.",
+    "back": "Foreshortening occurs when a structure is angled away from the receptor plane so it appears shorter than it actually is. Elongation occurs when the angulation instead stretches the structure so it appears longer than its true length."
+  },
+  {
+    "id": 220,
+    "domain": "image_production",
+    "front": "What does tube, part, or receptor angulation affect?",
+    "back": "Angulation affects receptor exposure, spatial resolution, and distortion, since misalignment changes beam path length, changes the geometry controlling sharpness, and directly creates shape distortion."
+  },
+  {
+    "id": 221,
+    "domain": "image_production",
+    "front": "What two image quality categories do grids affect?",
+    "back": "Grids affect receptor exposure and image contrast."
+  },
+  {
+    "id": 222,
+    "domain": "image_production",
+    "front": "How does a grid improve image contrast?",
+    "back": "A grid is made of thin lead strips that absorb scatter radiation before it reaches the receptor, cleaning up the image and improving contrast."
+  },
+  {
+    "id": 223,
+    "domain": "image_production",
+    "front": "Why does adding a grid require a technique increase?",
+    "back": "The grid absorbs some of the primary useful beam along with the scatter, lowering receptor exposure, so mAs must be increased to compensate."
+  },
+  {
+    "id": 224,
+    "domain": "image_production",
+    "front": "What is the grid conversion factor also called, and what does it tell you?",
+    "back": "It is also called the Bucky factor. It tells you how many times to multiply the non-grid mAs to get an equivalent grid technique."
+  },
+  {
+    "id": 225,
+    "domain": "image_production",
+    "front": "Calculation: a non-grid technique of 4 mAs is adequate, and a 12:1 grid with a conversion factor of 5x is added. What is the new mAs?",
+    "back": "4 times 5 equals 20 mAs."
+  },
+  {
+    "id": 226,
+    "domain": "image_production",
+    "front": "What is the approximate grid conversion factor for an 8:1 grid?",
+    "back": "About 4 times the non-grid mAs."
+  },
+  {
+    "id": 227,
+    "domain": "image_production",
+    "front": "What three image quality categories does tube filtration affect?",
+    "back": "Filtration affects receptor exposure, image contrast, and subject contrast."
+  },
+  {
+    "id": 228,
+    "domain": "image_production",
+    "front": "What does added filtration do to the x-ray beam?",
+    "back": "Added aluminum filtration absorbs the lowest-energy photons that would otherwise be absorbed by the patient's skin without reaching the image, hardening the beam and raising the average photon energy."
+  },
+  {
+    "id": 229,
+    "domain": "image_production",
+    "front": "What is the minimum total filtration requirement above 70 kVp?",
+    "back": "Total filtration, inherent plus added, must generally equal at least 2.5 millimeters aluminum equivalent for a fixed x-ray unit operating above 70 kVp."
+  },
+  {
+    "id": 230,
+    "domain": "image_production",
+    "front": "What two image quality categories does beam restriction (collimation) affect?",
+    "back": "Beam restriction affects receptor exposure and image contrast."
+  },
+  {
+    "id": 231,
+    "domain": "image_production",
+    "front": "Why does tighter collimation improve contrast?",
+    "back": "Tightening the field reduces the tissue volume irradiated, which reduces scatter produced within the patient. Less scatter reaching the receptor means better image contrast."
+  },
+  {
+    "id": 232,
+    "domain": "image_production",
+    "front": "What four image quality categories do patient factors like size, density, and pathology affect?",
+    "back": "Patient factors affect receptor exposure, image contrast, subject contrast, and spatial resolution, since a larger or denser patient attenuates more beam and produces more internal scatter."
+  },
+  {
+    "id": 233,
+    "domain": "image_production",
+    "front": "Give examples of additive pathology and how they change technique.",
+    "back": "Ascites, pneumonia, edema, and a plaster cast are additive conditions. They add tissue density and require a technique increase."
+  },
+  {
+    "id": 234,
+    "domain": "image_production",
+    "front": "Give examples of destructive pathology and how they change technique.",
+    "back": "Emphysema, osteoporosis, and a resolving fracture are destructive conditions. They remove tissue and require a technique decrease."
+  },
+  {
+    "id": 235,
+    "domain": "image_production",
+    "front": "What is a fixed kVp technique chart system?",
+    "back": "A system where kVp is set at an optimal level for each body part and only mAs is adjusted as thickness changes, keeping contrast consistent since kVp never changes."
+  },
+  {
+    "id": 236,
+    "domain": "image_production",
+    "front": "What is a variable kVp technique chart system?",
+    "back": "A system where both kVp and mAs move together as thickness changes, allowing lower dose on thinner parts but producing less consistent contrast between exams."
+  },
+  {
+    "id": 237,
+    "domain": "image_production",
+    "front": "What is anatomically programmed technique?",
+    "back": "A generator feature that lets the technologist select the body part and projection from a menu. The generator loads a preset kVp, mA, and time based on average patient measurements, which the technologist fine-tunes using a caliper measurement of part thickness."
+  },
+  {
+    "id": 238,
+    "domain": "image_production",
+    "front": "How much should mAs typically be increased for a plaster cast versus a fiberglass cast?",
+    "back": "A plaster cast is highly additive and typically needs mAs increased by roughly 50 to 60 percent. A fiberglass cast needs little adjustment since it attenuates far less."
+  },
+  {
+    "id": 239,
+    "domain": "image_production",
+    "front": "How should technique generally be adjusted for pediatric patients?",
+    "back": "Pediatric patients generally need lower mAs and often higher kVp with very short exposure times to limit motion, since children move unpredictably and their tissues are thinner."
+  },
+  {
+    "id": 240,
+    "domain": "image_production",
+    "front": "How should technique generally be adjusted for geriatric patients?",
+    "back": "Geriatric patients often have reduced tissue mass and bone density from osteoporosis, so they usually need reduced technique along with extra time to prevent motion given limited mobility."
+  },
+  {
+    "id": 241,
+    "domain": "image_production",
+    "front": "How does contrast media affect exposure technique?",
+    "back": "Contrast media such as barium or iodinated contrast increases attenuating density and typically needs a technique increase similar to an additive pathology."
+  },
+  {
+    "id": 242,
+    "domain": "image_production",
+    "front": "What does AEC (automatic exposure control) actually control?",
+    "back": "AEC terminates the exposure automatically once a preset amount of radiation has reached the detector cells, rather than the technologist manually setting exposure time."
+  },
+  {
+    "id": 243,
+    "domain": "image_production",
+    "front": "Under AEC, what happens to receptor exposure when the mA station is changed?",
+    "back": "Receptor exposure stays constant regardless of the mA station selected, as long as mA is high enough that exposure time does not fall below the system's minimum response time."
+  },
+  {
+    "id": 244,
+    "domain": "image_production",
+    "front": "Under AEC, how does raising kVp behave differently than under manual technique?",
+    "back": "Raising kVp still shortens contrast and lengthens gray scale as it does manually, but AEC cuts the exposure short once enough radiation is detected, so higher kVp typically shortens exposure time and can reduce dose while barely changing receptor exposure."
+  },
+  {
+    "id": 245,
+    "domain": "image_production",
+    "front": "What is the classic boards scenario for AEC detector cell misuse on a chest projection?",
+    "back": "If the active cells sit under the lungs rather than the mediastinum, the AEC senses the low-density lung field and terminates the exposure too soon, causing gross underexposure of the heart and great vessels."
+  },
+  {
+    "id": 246,
+    "domain": "image_production",
+    "front": "What is the exposure adjustment (density) control on AEC used for?",
+    "back": "It lets the technologist intentionally raise or lower the receptor exposure the AEC is targeting, typically in increments like plus one or minus one, each representing roughly 25 to 50 percent change, useful when patient tissue characteristics would otherwise fool the AEC."
+  },
+  {
+    "id": 247,
+    "domain": "image_production",
+    "front": "What is AEC backup time or backup mAs?",
+    "back": "A maximum exposure the unit allows regardless of what the detector cells detect, protecting the patient and tube if a positioning error or malfunction prevents proper termination."
+  },
+  {
+    "id": 248,
+    "domain": "image_production",
+    "front": "What controls spatial resolution in a digital detector?",
+    "back": "Pixel size and pixel pitch, along with the size and fill factor of the underlying detector elements (DELs). Smaller DELs with tighter pitch and higher fill factor produce higher spatial resolution."
+  },
+  {
+    "id": 249,
+    "domain": "image_production",
+    "front": "What is the Nyquist frequency?",
+    "back": "The highest spatial frequency a system can accurately record without aliasing artifacts. It equals one half of the sampling frequency set by pixel pitch."
+  },
+  {
+    "id": 250,
+    "domain": "image_production",
+    "front": "For a fixed field of view, how does matrix size affect spatial resolution?",
+    "back": "A larger matrix means smaller pixels, which produces better spatial resolution."
+  },
+  {
+    "id": 251,
+    "domain": "image_production",
+    "front": "What does modulation transfer function (MTF) measure?",
+    "back": "MTF, expressed as a value between 0 and 1, measures how faithfully a system reproduces true object contrast as spatial frequency increases. It is the standard objective measure of detector sharpness."
+  },
+  {
+    "id": 252,
+    "domain": "image_production",
+    "front": "What controls contrast resolution in a digital image?",
+    "back": "Bit depth, the number of gray shades each pixel can represent. A higher bit depth, such as 12-bit versus 8-bit, displays far more subtle tissue density differences."
+  },
+  {
+    "id": 253,
+    "domain": "image_production",
+    "front": "What is detective quantum efficiency (DQE)?",
+    "back": "DQE measures how efficiently a detector converts incoming photons into a usable, low-noise signal. A higher DQE means diagnostic quality using fewer photons, lowering patient dose."
+  },
+  {
+    "id": 254,
+    "domain": "image_production",
+    "front": "Differentiate a focused grid from a virtual grid.",
+    "back": "A focused grid has lead strips angled to match beam divergence at a specific SID. A virtual grid applies the grid effect through post-processing, but it cannot remove scatter that was never eliminated at the time of exposure."
+  },
+  {
+    "id": 255,
+    "domain": "image_production",
+    "front": "What is quantum noise, also called quantum mottle?",
+    "back": "The random, grainy appearance caused by too few photons reaching the detector to form a statistically reliable image."
+  },
+  {
+    "id": 256,
+    "domain": "image_production",
+    "front": "Why is checking image brightness not a reliable way to catch underexposure on a digital image?",
+    "back": "Processing software automatically applies contrast and brightness adjustments to whatever signal it receives, so a low-mAs digital image can display as bright and sharp on the monitor even though it is underexposed. The only reliable check is the exposure indicator number."
+  },
+  {
+    "id": 257,
+    "domain": "image_production",
+    "front": "What are the risks of an underexposed digital image that looks fine on screen?",
+    "back": "It still carries excess quantum mottle and reduced contrast resolution, and if the exposure indicator is not checked, the patient may need an avoidable repeat later."
+  },
+  {
+    "id": 258,
+    "domain": "image_production",
+    "front": "What are the rules for placing radiographic identification markers?",
+    "back": "Right, left, and any positional markers must be placed within the collimated field at the time of exposure and never added digitally afterward, since a marker added after exposure cannot be verified against the patient's actual position."
+  },
+  {
+    "id": 259,
+    "domain": "image_production",
+    "front": "List the criteria checked when evaluating a completed radiographic image.",
+    "back": "Exposure indicator, contrast (subject and image), spatial resolution, distortion (size and shape), identification markers present and correct, and freedom from artifacts such as motion, grid lines, or processing errors."
+  },
+  {
+    "id": 260,
+    "domain": "image_production",
+    "front": "What does the x-ray generator do?",
+    "back": "It takes incoming electrical power from the wall and converts it into the precise, controlled voltage and current the x-ray tube needs to produce an x-ray beam, using transformers and a rectification system."
+  },
+  {
+    "id": 261,
+    "domain": "image_production",
+    "front": "What is the job of transformers in the x-ray circuit?",
+    "back": "Transformers change voltage up or down through electromagnetic induction, stepping voltage up for the tube and stepping filament voltage down for the cathode."
+  },
+  {
+    "id": 262,
+    "domain": "image_production",
+    "front": "What does rectification do in the x-ray circuit?",
+    "back": "Rectification converts alternating current into direct current so electrons keep flowing in one direction, from cathode to anode, instead of reversing direction."
+  },
+  {
+    "id": 263,
+    "domain": "image_production",
+    "front": "How does a single-phase generator's waveform differ from a three-phase generator's waveform?",
+    "back": "Single-phase generators produce a pulsating waveform with big dips between pulses, so the tube is not always at peak kilovoltage. Three-phase generators smooth that waveform out, keeping voltage much closer to a constant peak."
+  },
+  {
+    "id": 264,
+    "domain": "image_production",
+    "front": "How does a high-frequency generator achieve nearly constant voltage?",
+    "back": "It converts incoming current to a very high frequency, sometimes over 100,000 Hz, before rectifying it, producing an almost constant voltage with minimal ripple."
+  },
+  {
+    "id": 265,
+    "domain": "image_production",
+    "front": "What practical advantages do high-frequency generators offer over single-phase units?",
+    "back": "They are more efficient, produce more consistent image quality, and allow shorter exposure times for the same technique."
+  },
+  {
+    "id": 266,
+    "domain": "image_production",
+    "front": "What is tube loading?",
+    "back": "Tube loading refers to how much heat a given exposure puts into the anode and how quickly that heat can be dissipated."
+  },
+  {
+    "id": 267,
+    "domain": "image_production",
+    "front": "Why do generators use tube rating charts?",
+    "back": "To prevent the technologist from selecting a technique that would put more heat into the anode than the tube can handle, which would overload and damage the tube."
+  },
+  {
+    "id": 268,
+    "domain": "image_production",
+    "front": "What is the function of the cathode in an x-ray tube?",
+    "back": "The cathode is the electron source. It contains a filament, usually tungsten, that is heated to release electrons through thermionic emission."
+  },
+  {
+    "id": 269,
+    "domain": "image_production",
+    "front": "What is the function of the anode in an x-ray tube?",
+    "back": "The anode is the target that electrons strike to produce x-rays."
+  },
+  {
+    "id": 270,
+    "domain": "image_production",
+    "front": "Why is the anode target typically made of tungsten alloyed with rhenium?",
+    "back": "Tungsten has a high atomic number, which is efficient for producing x-rays, and a high melting point, which lets it survive the intense heat generated during exposure."
+  },
+  {
+    "id": 271,
+    "domain": "image_production",
+    "front": "Why do rotating anode tubes spin the anode disc during exposure?",
+    "back": "An induction motor spins the anode so the electron beam does not stay focused on one small spot. This spreads out the heat load and lets the tube tolerate higher techniques without melting the target."
+  },
+  {
+    "id": 272,
+    "domain": "image_production",
+    "front": "What is inherent filtration and what does it include?",
+    "back": "Inherent filtration is filtration built into the tube itself, including the glass or metal tube housing and the surrounding oil."
+  },
+  {
+    "id": 273,
+    "domain": "image_production",
+    "front": "Why does filtration matter for patient dose?",
+    "back": "Filtration removes the lowest-energy photons from the beam before they reach the patient. Those photons would be absorbed by the patient's skin and add dose without ever reaching the image receptor, so filtration lowers skin dose without meaningfully changing image quality."
+  },
+  {
+    "id": 274,
+    "domain": "image_production",
+    "front": "How does manual exposure control end an exposure?",
+    "back": "The exposure ends when the preset time or mAs selected by the technologist is reached, regardless of the actual dose the patient received."
+  },
+  {
+    "id": 275,
+    "domain": "image_production",
+    "front": "What do the ionization chambers in an AEC system actually measure?",
+    "back": "They measure, in real time, how much radiation has passed through the patient and reached the detector position between the patient and the image receptor."
+  },
+  {
+    "id": 276,
+    "domain": "image_production",
+    "front": "How does AEC terminate an exposure?",
+    "back": "Once the ionization chambers accumulate a preset amount of radiation, they signal the generator to terminate the exposure."
+  },
+  {
+    "id": 277,
+    "domain": "image_production",
+    "front": "Why can AEC produce a properly exposed image on patients of very different body sizes using the same chamber selection?",
+    "back": "Because AEC terminates based on radiation actually reaching the detector, it automatically compensates for differences in patient thickness and tissue density."
+  },
+  {
+    "id": 278,
+    "domain": "image_production",
+    "front": "What is the purpose of the backup timer built into every AEC circuit?",
+    "back": "If the detector fails or the chambers never receive enough radiation to trigger termination, such as from positioning error placing tissue outside the selected chamber, the backup timer cuts off the exposure at a preset maximum time or mAs, protecting the patient from excessive dose and the tube from overload."
+  },
+  {
+    "id": 279,
+    "domain": "image_production",
+    "front": "What does the exposure adjustment control on the console do?",
+    "back": "It lets the technologist bias the AEC to produce a lighter or darker image than the standard calibration, which is useful for patients with plaster casts, contrast media, or unusual pathology."
+  },
+  {
+    "id": 280,
+    "domain": "image_production",
+    "front": "What is the AEC minimum response time, and why does it matter for thin body parts?",
+    "back": "Minimum response time is the shortest exposure time the AEC system is physically capable of producing. If a technique calls for a shorter exposure than that minimum, the AEC cannot terminate fast enough and the image will be overexposed, which is a real risk with thin body parts, pediatric patients, and high-mA techniques."
+  },
+  {
+    "id": 281,
+    "domain": "image_production",
+    "front": "How do direct conversion digital detectors work?",
+    "back": "Direct conversion detectors, most commonly amorphous selenium, convert x-ray photons directly into an electrical signal without an intermediate light step."
+  },
+  {
+    "id": 282,
+    "domain": "image_production",
+    "front": "Why do direct conversion detectors have excellent inherent spatial resolution?",
+    "back": "Because there is no light-conversion step, there is no lateral spread of light, which preserves sharp spatial detail."
+  },
+  {
+    "id": 283,
+    "domain": "image_production",
+    "front": "How do indirect conversion digital detectors work?",
+    "back": "Indirect conversion detectors, using materials like amorphous silicon combined with a cesium iodide scintillator, first convert x-rays into visible light and then convert that light into an electrical signal."
+  },
+  {
+    "id": 284,
+    "domain": "image_production",
+    "front": "Why can indirect conversion detectors have slightly lower spatial resolution than direct conversion detectors?",
+    "back": "The extra light-conversion step introduces some light spread, though modern cesium iodide's needle-like crystal structure channels light efficiently and minimizes this effect."
+  },
+  {
+    "id": 285,
+    "domain": "image_production",
+    "front": "Why does beam restriction with collimators reduce patient dose?",
+    "back": "Restricting the field size to only the anatomy of interest reduces the volume of tissue irradiated, which reduces patient dose."
+  },
+  {
+    "id": 286,
+    "domain": "image_production",
+    "front": "Why does beam restriction with collimators improve image contrast?",
+    "back": "A smaller field size reduces the amount of scatter radiation reaching the image receptor, and less scatter means better image contrast."
+  },
+  {
+    "id": 287,
+    "domain": "image_production",
+    "front": "How does an image intensifier produce a fluoroscopic image?",
+    "back": "It converts x-rays into light at an input phosphor, converts that light into electrons, accelerates and focuses those electrons through a vacuum tube, and converts them back into a much brighter light image at the output phosphor."
+  },
+  {
+    "id": 288,
+    "domain": "image_production",
+    "front": "How do flat panel detectors used in fluoroscopy differ from image intensifiers?",
+    "back": "Flat panel detectors skip the entire electron-optic chain and convert x-rays into a digital signal directly, similar to digital radiography detectors, which reduces equipment bulk and eliminates certain image intensifier distortion artifacts."
+  },
+  {
+    "id": 289,
+    "domain": "image_production",
+    "front": "What does automatic brightness control (ABC), also called automatic exposure rate control, do during fluoroscopy?",
+    "back": "It operates continuously throughout the fluoroscopic exposure, automatically adjusting kVp, mA, or both, to maintain consistent image brightness on the monitor as the body part or positioning changes."
+  },
+  {
+    "id": 290,
+    "domain": "image_production",
+    "front": "What does magnification mode do in fluoroscopy?",
+    "back": "It narrows the electron beam's focus within the image intensifier to display a smaller field of view at higher apparent resolution, useful for evaluating fine detail such as small vessels during an angiographic procedure."
+  },
+  {
+    "id": 291,
+    "domain": "image_production",
+    "front": "Why does magnification mode increase patient dose in fluoroscopy?",
+    "back": "Because ABC must increase technique to maintain brightness over a smaller receptor area, even though the anatomical area actually being irradiated stays roughly the same."
+  },
+  {
+    "id": 292,
+    "domain": "image_production",
+    "front": "What is a grid and what does it do?",
+    "back": "A grid is a device placed between the patient and the image receptor that absorbs scattered radiation before it reaches the receptor, which improves image contrast."
+  },
+  {
+    "id": 293,
+    "domain": "image_production",
+    "front": "Why do stationary grids typically use a higher grid frequency than moving grids?",
+    "back": "Because a stationary grid's lead strips are visible as fine lines on the finished image, a higher grid frequency, meaning more lead strips per inch, keeps those lines from being visually distracting."
+  },
+  {
+    "id": 294,
+    "domain": "image_production",
+    "front": "What is a virtual grid?",
+    "back": "A virtual grid is a software-based scatter correction used with digital detectors that mathematically reduces the effect of scatter on the displayed image instead of physically absorbing it with lead strips."
+  },
+  {
+    "id": 295,
+    "domain": "image_production",
+    "front": "Why can a virtual grid reduce patient dose compared to a physical grid?",
+    "back": "A physical grid requires increased technique to compensate for the radiation it absorbs, while a virtual grid can allow certain exposures without a physical grid at all."
+  },
+  {
+    "id": 296,
+    "domain": "image_production",
+    "front": "What is a Potter-Bucky diaphragm and why does it move?",
+    "back": "It is a moving grid housed in the Bucky assembly that oscillates or reciprocates during the exposure to blur out the grid lines that a stationary grid would otherwise show."
+  },
+  {
+    "id": 297,
+    "domain": "image_production",
+    "front": "What is quantization in digital image processing?",
+    "back": "Quantization is the process where the analog-to-digital converter samples the detector's analog signal and converts it into discrete numeric values the computer can work with."
+  },
+  {
+    "id": 298,
+    "domain": "image_production",
+    "front": "What does flat fielding correct for?",
+    "back": "It corrects for the fact that a detector's response is not perfectly uniform across its surface, since some pixels are naturally more or less sensitive than others."
+  },
+  {
+    "id": 299,
+    "domain": "image_production",
+    "front": "What is dead pixel correction?",
+    "back": "Dead pixel correction identifies detector elements that have failed and substitutes interpolated values from surrounding healthy pixels so the dead pixel does not appear as a distracting black or white dot on the final image."
+  },
+  {
+    "id": 300,
+    "domain": "image_production",
+    "front": "What is the histogram used for during image preprocessing?",
+    "back": "The histogram graphs how many pixels in the image fall at each exposure value, and the software analyzes it to identify the anatomy present and calculate an appropriate exposure index."
+  },
+  {
+    "id": 301,
+    "domain": "image_production",
+    "front": "What does edge enhancement processing do?",
+    "back": "It increases the contrast at boundaries between different tissue densities, making structures like bone edges or catheter tips appear sharper."
+  },
+  {
+    "id": 302,
+    "domain": "image_production",
+    "front": "What does equalization processing accomplish?",
+    "back": "It compresses the very bright and very dark ends of the histogram so that both dense and lucent areas of a single image, such as the mediastinum and lung fields on a chest image, can be evaluated on the same display."
+  },
+  {
+    "id": 303,
+    "domain": "image_production",
+    "front": "What does smoothing do to a digital image, and what is the tradeoff?",
+    "back": "Smoothing reduces the visual appearance of noise, sometimes at the cost of fine detail, and is often applied automatically for lower-dose exposures where noise would otherwise be more prominent."
+  },
+  {
+    "id": 304,
+    "domain": "image_production",
+    "front": "What is the purpose of values of interest (VOI) processing and a look-up table (LUT)?",
+    "back": "They map the wide range of digital pixel values down to the specific brightness levels the display monitor and human eye can distinguish, tailoring the detector's huge dynamic range into an image that looks correctly exposed on screen."
+  },
+  {
+    "id": 305,
+    "domain": "image_production",
+    "front": "What are window level and window width adjustments?",
+    "back": "Window level adjusts image brightness and window width adjusts image contrast, both applied as postprocessing after the image is generated."
+  },
+  {
+    "id": 306,
+    "domain": "image_production",
+    "front": "What does electronic cropping or masking do to a digital image?",
+    "back": "It removes unwanted areas from the displayed or printed image, most often the collimated border, without altering the underlying acquired data."
+  },
+  {
+    "id": 307,
+    "domain": "image_production",
+    "front": "Why does ambient room lighting matter for reading rooms?",
+    "back": "Ambient lighting that is too bright washes out subtle gray-scale differences on the display monitor, which is why reading rooms are kept dim."
+  },
+  {
+    "id": 308,
+    "domain": "image_production",
+    "front": "Why can't a low-resolution monitor display the fine detail a high-resolution detector captured?",
+    "back": "A monitor's spatial resolution depends on pixel size and pixel pitch, and a monitor with coarser pixels cannot display detail finer than its own pixel structure allows, no matter how good the original acquisition was."
+  },
+  {
+    "id": 309,
+    "domain": "image_production",
+    "front": "What is DICOM and why does it matter?",
+    "back": "DICOM (Digital Imaging and Communications in Medicine) is the universal standard format that allows equipment from different manufacturers to communicate images and data with each other reliably."
+  },
+  {
+    "id": 310,
+    "domain": "image_production",
+    "front": "What is PACS?",
+    "back": "The Picture Archiving and Communication System is the network that stores and distributes digital images across a facility."
+  },
+  {
+    "id": 311,
+    "domain": "image_production",
+    "front": "What is the difference between an HIS/RIS and an EMR/EHR?",
+    "back": "The Hospital Information System and Radiology Information System manage scheduling, patient demographics, orders, and reporting, while the Electronic Medical Record or Electronic Health Record holds the patient's broader clinical history."
+  },
+  {
+    "id": 312,
+    "domain": "image_production",
+    "front": "Why does every department need documented downtime procedures?",
+    "back": "Because patient care cannot simply stop when PACS, RIS, or the network fails. Downtime procedures cover how images and orders will be tracked, how critical results will be communicated, and how the backlog will be reconciled once systems are restored."
+  },
+  {
+    "id": 313,
+    "domain": "image_production",
+    "front": "Why does light field to radiation field alignment need to be checked as a QC test?",
+    "back": "This test exists because a collimator that drifts out of alignment can expose tissue the technologist never intended to irradiate, increasing dose for no benefit, or can cut off anatomy the physician needs to see, leading to a repeat exposure."
+  },
+  {
+    "id": 314,
+    "domain": "image_production",
+    "front": "What does central ray alignment QC verify, and why does it matter?",
+    "back": "It verifies the x-ray beam is perpendicular to and centered on the image receptor. A central ray that is off-center or angled can introduce image distortion and throw off grid alignment, causing grid cutoff."
+  },
+  {
+    "id": 315,
+    "domain": "image_production",
+    "front": "Why does plate uniformity testing catch problems that would otherwise reach a patient image?",
+    "back": "It exposes the detector to a flat, uniform beam and checks that every part of the resulting image reads the same value, which catches detector damage, debris, or component aging that would otherwise show up as an unexplained artifact on a real patient image."
+  },
+  {
+    "id": 316,
+    "domain": "image_production",
+    "front": "What does spatial resolution QC testing of a digital detector confirm?",
+    "back": "It uses a test pattern to confirm the detector is still resolving fine detail at the level it was designed for, catching gradual degradation before it affects diagnostic accuracy."
+  },
+  {
+    "id": 317,
+    "domain": "image_production",
+    "front": "Why do detectors need periodic calibration even though they worked fine when installed?",
+    "back": "Detector elements can drift or degrade with use and radiation exposure over time, so calibration resets the detector's baseline response to keep its sensitivity accurate and consistent over its lifespan."
+  },
+  {
+    "id": 318,
+    "domain": "image_production",
+    "front": "What is the grayscale standard display function (GSDF) and why does it matter?",
+    "back": "It is a calibration standard ensuring a given change in pixel value produces a perceptually consistent change in displayed brightness across the monitor's entire range, matching how the human eye actually perceives differences in gray."
+  },
+  {
+    "id": 319,
+    "domain": "image_production",
+    "front": "Why is periodic monitor luminance testing needed even if a monitor looks fine to the eye?",
+    "back": "An aging monitor backlight can quietly reduce contrast resolution well before the change is obvious to the naked eye, so luminance testing confirms maximum brightness and consistency have not degraded."
+  },
+  {
+    "id": 320,
+    "domain": "image_production",
+    "front": "Why does shielding accessory QC test lead aprons, gloves, and thyroid shields for cracks or holes?",
+    "back": "The lead composite material can develop cracks or holes as it ages and is folded or dropped repeatedly. A cracked apron gives a false sense of protection since staff and patients assume they are shielded when radiation can actually pass through the damaged area."
+  },
+  {
+    "id": 321,
+    "domain": "procedures",
+    "front": "Lateral skull: CR entry point, and how do you confirm there is no rotation?",
+    "back": "CR is perpendicular to the IR, entering 2 inches (5 cm) superior to the EAM, with no rotation or tilt. A correctly positioned lateral shows superimposed orbital roofs and superimposed mandibular rami; failure of these paired structures to line up is the most common rotation error."
+  },
+  {
+    "id": 322,
+    "domain": "procedures",
+    "front": "Towne method: CR angle, entry point, what it demonstrates, and how rotation is confirmed?",
+    "back": "CR angles 30 degrees caudad to the OML, entering about 2.5 inches (6 cm) above the glabella and exiting near the foramen magnum, demonstrating the occipital bone, foramen magnum, and dorsum sellae. The dorsum sellae and posterior clinoids should project within the foramen magnum with symmetric petrous ridges confirming no rotation."
+  },
+  {
+    "id": 323,
+    "domain": "procedures",
+    "front": "Caldwell method: CR angle, exit point, and what it demonstrates? How does it differ from a plain PA skull?",
+    "back": "Forehead and nose touch the IR, CR angles 15 degrees caudad and exits at the nasion, demonstrating the frontal bone, frontal sinuses, and superior orbital margins, with petrous ridges projecting into the lower third of the orbits. A plain PA skull uses the same positioning but a perpendicular CR, and the petrous ridges fill the orbits instead of dropping below them."
+  },
+  {
+    "id": 324,
+    "domain": "procedures",
+    "front": "Submentovertex (SMV) skull: positioning, CR, and what it demonstrates?",
+    "back": "The neck is hyperextended until the IOML is as parallel to the IR as tolerated, vertex touching the IR, CR perpendicular to the IOML entering along the midsagittal plane about 3/4 inch (2 cm) anterior to the EAMs. It demonstrates the skull base, sphenoid and ethmoid sinuses, and mandible, with the mandibular condyles projecting anterior to the petrous pyramids."
+  },
+  {
+    "id": 325,
+    "domain": "procedures",
+    "front": "Trauma cross-table lateral skull: how is it performed when the neck cannot be moved?",
+    "back": "The patient stays supine, the IR is placed vertically against the side of the head, and the CR is directed horizontally, perpendicular to the IR, entering 2 inches (5 cm) above the EAM, preserving cervical immobilization."
+  },
+  {
+    "id": 326,
+    "domain": "procedures",
+    "front": "What is the general rule for adapting skull and facial projections when cervical injury cannot be excluded?",
+    "back": "Never flex, extend, or rotate the neck. Adapt every skull and facial projection to a horizontal-beam or non-rotational technique that keeps the neck stationary."
+  },
+  {
+    "id": 327,
+    "domain": "procedures",
+    "front": "Waters method: positioning and what it best demonstrates?",
+    "back": "The neck is extended so the chin rests on the IR with the OML at 37 degrees to the IR, CR perpendicular exiting at the acanthion. It is the best all-around facial view for the maxilla, zygomatic arches, and orbital floors."
+  },
+  {
+    "id": 328,
+    "domain": "procedures",
+    "front": "When is the modified Waters projection used?",
+    "back": "To evaluate the orbital floor for a blowout fracture. It uses the same acanthion-centered Waters positioning, but the OML is angled to 55 degrees instead of the standard 37, which elongates the orbital floor and drops the petrous ridges lower, out of the way of the orbit."
+  },
+  {
+    "id": 329,
+    "domain": "procedures",
+    "front": "Why is a modified Waters at 55 degrees preferred for evaluating the orbital floor?",
+    "back": "Angling the OML to 55 degrees instead of the standard 37 degrees elongates the orbital floor and drops the petrous ridges lower, out of the way of the orbit."
+  },
+  {
+    "id": 330,
+    "domain": "procedures",
+    "front": "How does the lateral facial bones CR entry point differ from a standard lateral skull?",
+    "back": "Standard lateral skull positioning is used, but the CR enters lower, at the zygomatic bone near the outer canthus, to center on facial rather than cranial structures."
+  },
+  {
+    "id": 331,
+    "domain": "procedures",
+    "front": "Lateral nasal bones: where does the CR enter?",
+    "back": "Same positioning as lateral facial bones, tightly collimated to the nasal bones, with the CR entering about half an inch inferior to the nasion."
+  },
+  {
+    "id": 332,
+    "domain": "procedures",
+    "front": "Axiolateral oblique mandible: positioning and CR?",
+    "back": "The head rotates 30 to 45 degrees toward the side being examined, CR angled 25 degrees cephalad, entering the far mandibular ramus and exiting near the near mandibular angle. This frees the body and ramus from cervical spine and opposite-side superimposition."
+  },
+  {
+    "id": 333,
+    "domain": "procedures",
+    "front": "PA mandible: CR and what it best shows?",
+    "back": "Forehead and nose contact the IR, CR is perpendicular and exits at the acanthion. It best shows the rami and body of the mandible without rotation."
+  },
+  {
+    "id": 334,
+    "domain": "procedures",
+    "front": "Which mandible projection is the projection of choice for condylar fracture or dislocation?",
+    "back": "The AP axial Towne for the condyles, using standard Towne positioning (OML perpendicular, CR 30 degrees caudad) but centered lower to profile the condyles within the mandibular fossae."
+  },
+  {
+    "id": 335,
+    "domain": "procedures",
+    "front": "PA axial mandible: how does it differ from a plain PA mandible?",
+    "back": "Same forehead-nose positioning, but with 20 to 25 degrees of caudal CR angulation added, which better demonstrates the body and symphysis."
+  },
+  {
+    "id": 336,
+    "domain": "procedures",
+    "front": "TMJ modified Law method: positioning, CR, and why is it done open and closed mouth?",
+    "back": "The head is in a true lateral rotated 15 degrees toward the IR, CR angled 15 degrees caudad, entering about 2 inches (5 cm) superior to the upper EAM. Comparing open- and closed-mouth images shows normal condylar translation out of the fossa on opening; failure to translate suggests TMJ dysfunction."
+  },
+  {
+    "id": 337,
+    "domain": "procedures",
+    "front": "TMJ modified Towne method: CR angle?",
+    "back": "Standard Towne positioning is used but the CR angles 30 to 35 degrees caudad and is centered on the TMJs, again taken open- and closed-mouth."
+  },
+  {
+    "id": 338,
+    "domain": "procedures",
+    "front": "What is the general technical rule for imaging paranasal sinuses, and why?",
+    "back": "Sinuses are imaged erect with a horizontal beam, specifically to demonstrate air-fluid levels. If the erect, horizontal-beam technique is not preserved, any fluid line disappears from the image."
+  },
+  {
+    "id": 339,
+    "domain": "procedures",
+    "front": "Lateral sinus projection: CR entry point?",
+    "back": "Erect, true lateral, CR horizontal, entering about 0.5 inch (1.25 cm) posterior to the outer canthus, showing all four sinus groups in profile."
+  },
+  {
+    "id": 340,
+    "domain": "procedures",
+    "front": "Which horizontal-beam sinus projection is considered the workhorse view, and why?",
+    "back": "The Waters method with a horizontal beam (chin on IR, OML at 37 degrees) best shows the maxillary sinuses, which is why it is the workhorse sinus projection."
+  },
+  {
+    "id": 341,
+    "domain": "procedures",
+    "front": "AP axial cervical spine: CR angle and entry point?",
+    "back": "CR angles 15 to 20 degrees cephalad, entering at C4 (thyroid cartilage level), demonstrating C3 through C7 and the disc spaces."
+  },
+  {
+    "id": 342,
+    "domain": "procedures",
+    "front": "AP open-mouth odontoid: positioning and correct dens appearance?",
+    "back": "The mouth opens fully so the occlusal plane and skull base are superimposed, CR perpendicular through the center of the open mouth. The dens should sit centered between the C1 lateral masses with equal space on each side."
+  },
+  {
+    "id": 343,
+    "domain": "procedures",
+    "front": "Fuchs method: indication and positioning?",
+    "back": "Used for the AP dens view when the patient cannot hold the mouth open and still. The neck is hyperextended until a line from the mentum to the mastoid tip is perpendicular to the IR, CR perpendicular just below the mandible tip."
+  },
+  {
+    "id": 344,
+    "domain": "procedures",
+    "front": "Lateral cervical spine: SID, CR, and what must be visible on the image?",
+    "back": "Usually erect at a long 72 inch (180 cm) SID, midsagittal plane parallel to the IR, shoulders relaxed and depressed, CR perpendicular entering at C4. All seven cervical vertebrae plus the C7-T1 junction must be shown, using gentle traction or weighted wrists if the shoulders obscure C7."
+  },
+  {
+    "id": 345,
+    "domain": "procedures",
+    "front": "Swimmer's lateral: indication and technique?",
+    "back": "Used to show the cervicothoracic junction (C7-T1) when the shoulders obscure it on a routine lateral. The arm nearer the IR raises overhead while the opposite shoulder depresses, CR horizontal, angled 3 to 5 degrees caudad, entering at T1."
+  },
+  {
+    "id": 346,
+    "domain": "procedures",
+    "front": "PA oblique versus AP oblique cervical spine: which shows which foramina?",
+    "back": "PA obliques best show the intervertebral foramina and pedicles closest to the IR, while AP obliques show those farthest from the IR. Both are taken at 45 degrees rotation, right and left."
+  },
+  {
+    "id": 347,
+    "domain": "procedures",
+    "front": "When are cervical flexion and extension laterals performed, and when are they contraindicated?",
+    "back": "They assess ligamentous stability with the chin tucked (flexion) or tilted back (extension), CR perpendicular at C4. They are never done in acute trauma until fracture is ruled out, since moving an unstable spine risks cord injury."
+  },
+  {
+    "id": 348,
+    "domain": "procedures",
+    "front": "AP thoracic spine: breathing technique and CR?",
+    "back": "Shallow, continuous breathing with a long exposure blurs ribs and lung markings while keeping the spine sharp. CR is perpendicular, entering about 3 to 4 inches (7 to 10 cm) below the jugular notch at T7."
+  },
+  {
+    "id": 349,
+    "domain": "procedures",
+    "front": "Lateral thoracic spine: what are the two breathing approaches used, and why?",
+    "back": "Shallow breathing blurs the lungs for the standard view, while full expiration is used for the lower thoracic vertebrae, since expiration elevates the diaphragm and reduces density over T10-T12."
+  },
+  {
+    "id": 350,
+    "domain": "procedures",
+    "front": "What is the purpose and technique of the scoliosis series?",
+    "back": "It measures spinal curvature for Cobb angle assessment, taken erect on a single long IR from C7 to the sacrum, PA or lateral, with no compression band and no angulation so the spine's natural alignment is preserved."
+  },
+  {
+    "id": 351,
+    "domain": "procedures",
+    "front": "AP lumbar spine: positioning and CR?",
+    "back": "Supine, knees flexed to flatten the lordotic curve, CR perpendicular entering at the iliac crest level (L4)."
+  },
+  {
+    "id": 352,
+    "domain": "procedures",
+    "front": "Lateral lumbar spine: positioning and CR?",
+    "back": "True lateral, knees and hips flexed, a support placed under the waist to keep the spine parallel to the tabletop, CR perpendicular at the iliac crest (L4)."
+  },
+  {
+    "id": 353,
+    "domain": "procedures",
+    "front": "Why is a dedicated L5-S1 lateral spot view needed, and what is the CR angle?",
+    "back": "The wings of the ilium often obscure L5-S1 on the routine lateral. A tightly collimated CR angles 5 to 8 degrees caudad, entering about 2 inches (5 cm) inferior and posterior to the iliac crest."
+  },
+  {
+    "id": 354,
+    "domain": "procedures",
+    "front": "What do the lumbar oblique projections show, and which structures are best demonstrated closest to the IR?",
+    "back": "They show the 'Scotty dog' appearance of the pars interarticularis, used to detect spondylolysis. On an anterior oblique (prone), structures closer to the IR are best shown; CR enters about 2 inches (5 cm) medial to the elevated side at L3."
+  },
+  {
+    "id": 355,
+    "domain": "procedures",
+    "front": "AP axial L5-S1 projection: CR angle for males versus females?",
+    "back": "Supine, CR angled 30 to 35 degrees cephalad for males or 35 to 40 degrees for females to compensate for a typically greater pelvic curve, entering midline superior to the pubic symphysis."
+  },
+  {
+    "id": 356,
+    "domain": "procedures",
+    "front": "Sacrum and coccyx: why are they imaged as separate projections, and what are the CR angles?",
+    "back": "Their curvature would foreshorten both on one straight AP. The AP axial sacrum angles the CR 15 degrees cephalad, entering about 2 inches (5 cm) superior to the pubic symphysis; the AP axial coccyx uses the opposite angle, 10 degrees caudad, from the same entry point."
+  },
+  {
+    "id": 357,
+    "domain": "procedures",
+    "front": "Lateral sacrum and coccyx: CR entry point?",
+    "back": "True lateral positioning, CR perpendicular entering about 3.5 inches (9 cm) posterior to the ASIS, roughly at the level of the greater trochanter."
+  },
+  {
+    "id": 358,
+    "domain": "procedures",
+    "front": "AP axial sacroiliac (SI) joints: CR angle and entry?",
+    "back": "Supine, CR angled 30 to 35 degrees cephalad, entering midline about 2 inches (5 cm) superior to the pubic symphysis, opening the naturally angled joint spaces."
+  },
+  {
+    "id": 359,
+    "domain": "procedures",
+    "front": "Posterior oblique versus anterior oblique SI joint projections: which joint shows farther from the IR?",
+    "back": "Posterior obliques (25 to 30 degrees from supine) show the SI joint farther from the table, CR entering about 1 inch (2.5 cm) medial to the elevated ASIS. Anterior obliques show the joint closer to the IR."
+  },
+  {
+    "id": 360,
+    "domain": "procedures",
+    "front": "AP pelvis: leg positioning, why, and how does a correctly positioned image look?",
+    "back": "Legs are internally rotated 15 to 20 degrees to correct for normal femoral anteversion and profile the femoral necks, CR perpendicular entering midline midway between the ASIS and pubic symphysis. A correct image shows symmetric iliac wings and obturator foramina, with the lesser trochanters minimal or absent since internal rotation tucks them behind the femoral shaft."
+  },
+  {
+    "id": 361,
+    "domain": "procedures",
+    "front": "AP hip (unilateral): CR entry point?",
+    "back": "Same internal leg rotation as the AP pelvis, centered and collimated to one hip. CR is perpendicular, entering about 1 inch (2.5 cm) inferior to a line from the ASIS to the pubic symphysis, at the femoral neck level."
+  },
+  {
+    "id": 362,
+    "domain": "procedures",
+    "front": "Unilateral frog-leg lateral hip: what is it especially good for, and how is it positioned?",
+    "back": "It is especially good for subtle femoral neck fractures or slipped capital femoral epiphysis in non-trauma patients. The hip and knee flex and the thigh abducts so the foot sole rests against the opposite knee, CR perpendicular at the femoral neck."
+  },
+  {
+    "id": 363,
+    "domain": "procedures",
+    "front": "Danelius-Miller method: what is it and how is it performed?",
+    "back": "It is the cross-table, horizontal-beam lateral hip used for suspected hip fracture. The unaffected leg is flexed and lifted out of the beam's path, the IR sits vertically against the lateral hip, and CR is directed horizontally, perpendicular to the femoral neck, entering the groin crease on the affected side, all without moving the injured leg."
+  },
+  {
+    "id": 364,
+    "domain": "procedures",
+    "front": "Clements-Nakayama method: when is it used, and what is the CR angle?",
+    "back": "Used when even the unaffected leg cannot be raised, or when both hips may be injured. The CR angles 15 to 20 degrees from horizontal, directed from below and lateral to the affected hip, entering at the femoral neck, without moving the injured leg."
+  },
+  {
+    "id": 365,
+    "domain": "procedures",
+    "front": "Bilateral frog-leg pelvis: how is it positioned, and when is it commonly used?",
+    "back": "Both legs are abducted, externally rotated, and knees flexed, comparing both hips at once. It is common in pediatric hip screening."
+  },
+  {
+    "id": 366,
+    "domain": "procedures",
+    "front": "Inlet versus outlet AP axial pelvis views: CR angles and what each assesses?",
+    "back": "The inlet view angles the CR 40 degrees caudad, entering midline about 2 inches (5 cm) below the ASIS level, assessing anteroposterior displacement of a pelvic ring injury. The outlet view angles the CR 35 to 40 degrees cephalad, entering midline at the pubic symphysis, assessing superior-inferior displacement."
+  },
+  {
+    "id": 367,
+    "domain": "procedures",
+    "front": "Judet method: what is it, and what does it evaluate?",
+    "back": "It is a posterior oblique acetabulum projection, rotating the patient 45 degrees posteriorly (both right and left are obtained), CR perpendicular entering about 2 inches (5 cm) inferior and 2 inches medial to the elevated ASIS. It evaluates the acetabular rims and columns after dislocation or fracture."
+  },
+  {
+    "id": 368,
+    "domain": "procedures",
+    "front": "What is the purpose of an AP pelvis weight-bearing view?",
+    "back": "It assesses pelvic ring stability and symphysis widening under physiologic load with the patient standing, an instability that a supine image cannot show."
+  },
+  {
+    "id": 369,
+    "domain": "procedures",
+    "front": "What is the unifying trauma-imaging principle that explains cross-table laterals, the swimmer's lateral, and the Clements-Nakayama method?",
+    "back": "Never move an injured part more than absolutely necessary. A horizontal beam or angled CR is used so the tube and IR do the work of achieving a diagnostic image instead of manipulating the patient."
+  },
+  {
+    "id": 370,
+    "domain": "procedures",
+    "front": "On an AP or PA skull, spine, or pelvis image, what visual signature indicates rotation?",
+    "back": "Asymmetric distance from the spinous processes to the pedicles on a spine image, or asymmetric obturator foramina and iliac wings on a pelvis image, both indicate rotation and require repositioning."
+  },
+  {
+    "id": 371,
+    "domain": "procedures",
+    "front": "Where does the central ray enter for a PA chest radiograph?",
+    "back": "Perpendicular to the midsagittal plane at the level of T7, roughly the inferior scapular angle."
+  },
+  {
+    "id": 372,
+    "domain": "procedures",
+    "front": "Why does a PA projection beat an AP projection for chest imaging?",
+    "back": "The heart sits anteriorly, so PA positioning keeps it closer to the receptor for a more accurate size, and standing upright lets the diaphragm drop so free fluid or free air settles where it is easiest to see."
+  },
+  {
+    "id": 373,
+    "domain": "procedures",
+    "front": "What breathing instruction and rib count apply to a PA chest radiograph?",
+    "back": "Full inspiration, with about ten posterior ribs visible above the diaphragm on a well-inflated image."
+  },
+  {
+    "id": 374,
+    "domain": "procedures",
+    "front": "When is an AP chest projection used instead of PA?",
+    "back": "When the patient cannot manage a PA, most often trauma or ICU patients; it is taken AP upright or AP supine, and the heart appears magnified in both."
+  },
+  {
+    "id": 375,
+    "domain": "procedures",
+    "front": "Why is the left side placed against the receptor for a lateral chest?",
+    "back": "The heart is left sided, so keeping the left side against the receptor keeps the heart closest to it and minimizes magnification."
+  },
+  {
+    "id": 376,
+    "domain": "procedures",
+    "front": "What is the central ray placement and breathing instruction for a lateral chest?",
+    "back": "Horizontal and perpendicular at T7 at the mid-coronal plane, taken on full inspiration with the arms raised overhead to clear the soft tissue."
+  },
+  {
+    "id": 377,
+    "domain": "procedures",
+    "front": "What does the AP lordotic chest projection accomplish?",
+    "back": "It throws the clavicles up and off the lung apices so the apices can be evaluated free of clavicular overlap."
+  },
+  {
+    "id": 378,
+    "domain": "procedures",
+    "front": "How is the patient positioned for an AP lordotic chest projection?",
+    "back": "Standing about a foot from the receptor and leaning back so the shoulders touch it while the body angles away; the central ray stays perpendicular to the receptor at T7."
+  },
+  {
+    "id": 379,
+    "domain": "procedures",
+    "front": "For lateral decubitus chest positioning, which side goes down for a suspected pleural effusion and which side goes up for a suspected pneumothorax?",
+    "back": "The affected side goes down for an effusion, since fluid pools to the dependent side, and the affected side goes up for a pneumothorax, since air rises."
+  },
+  {
+    "id": 380,
+    "domain": "procedures",
+    "front": "How is rotation identified on a PA chest radiograph?",
+    "back": "By comparing the distance from each sternoclavicular joint to the vertebral spinous process; unequal distances mean the patient was turned, which distorts heart size and mediastinal contours."
+  },
+  {
+    "id": 381,
+    "domain": "procedures",
+    "front": "What breathing instruction is used for ribs above the diaphragm and why?",
+    "back": "Full inspiration, positioned like a chest, because the air-filled lung provides the contrast needed to see the ribs clearly."
+  },
+  {
+    "id": 382,
+    "domain": "procedures",
+    "front": "What breathing instruction is used for ribs below the diaphragm and why?",
+    "back": "Full expiration, because raising the diaphragm out of the way keeps it from overlapping the lower ribs."
+  },
+  {
+    "id": 383,
+    "domain": "procedures",
+    "front": "What is the purpose of rib oblique positioning?",
+    "back": "RAO or LAO prone, or RPO or LPO supine, at about 45 degrees throws the axillary portion of the ribs into profile, clear of superimposition."
+  },
+  {
+    "id": 384,
+    "domain": "procedures",
+    "front": "Why is the sternum imaged RAO instead of straight PA?",
+    "back": "A straight PA sternum overlies the spine and heart; rotating 15 to 20 degrees from prone throws the sternum into the homogeneous heart shadow where it can be seen clearly."
+  },
+  {
+    "id": 385,
+    "domain": "procedures",
+    "front": "What breathing technique is used for the RAO sternum and why?",
+    "back": "Shallow breathing continued throughout the exposure, not suspended, which blurs the overlying ribs while the more rigid sternum stays sharp."
+  },
+  {
+    "id": 386,
+    "domain": "procedures",
+    "front": "What must a lateral sternum radiograph show?",
+    "back": "The whole sternum in profile without rib overlap, taken true lateral on full inspiration with the arms pulled back."
+  },
+  {
+    "id": 387,
+    "domain": "procedures",
+    "front": "What is the central ray level for soft tissue neck radiographs, and why should the patient avoid phonating?",
+    "back": "Perpendicular at the thyroid cartilage, around C6-C7; making a sound changes the airway's shape and position and would blur the structures being evaluated."
+  },
+  {
+    "id": 388,
+    "domain": "procedures",
+    "front": "Why does a PA projection of the SC joints only work as a scout, and how is one joint isolated?",
+    "back": "The SC joints sit over the spine on a PA, so it only shows both joints together; the RAO isolates the right joint and the LAO isolates the left, each with a 10 to 15 degree rotation."
+  },
+  {
+    "id": 389,
+    "domain": "procedures",
+    "front": "What does the AP or PA axial clavicle projection add beyond the standard AP or PA clavicle?",
+    "back": "Angling the central ray 15 to 30 degrees cephalad for AP or caudad for PA straightens the clavicle's natural curve and clears it of the ribs and scapula, since the straight AP or PA foreshortens that curve."
+  },
+  {
+    "id": 390,
+    "domain": "procedures",
+    "front": "For PICC tip confirmation, where is the central ray directed and where must the tip terminate?",
+    "back": "Central ray perpendicular at T7 on a portable AP chest, and the tip must terminate at the cavoatrial junction, where the superior vena cava meets the right atrium."
+  },
+  {
+    "id": 391,
+    "domain": "procedures",
+    "front": "What is the central ray location, level, and breathing instruction for a KUB?",
+    "back": "Perpendicular at the iliac crest, centering roughly L4-L5, exposed on expiration to reduce breathing motion."
+  },
+  {
+    "id": 392,
+    "domain": "procedures",
+    "front": "What anatomy must be included on a KUB and why?",
+    "back": "The diaphragm and the symphysis pubis both, since missing either edge could mean a free air or pelvic finding is missed."
+  },
+  {
+    "id": 393,
+    "domain": "procedures",
+    "front": "Where is the central ray placed on an AP upright abdomen and why?",
+    "back": "About two inches above the iliac crest to keep the diaphragm in the field, since both hemidiaphragms must be visible to catch free air."
+  },
+  {
+    "id": 394,
+    "domain": "procedures",
+    "front": "Why is the patient positioned on the left side for a left lateral decubitus abdomen?",
+    "back": "Free air rises over the liver on the left side down, where it shows up clearly against solid tissue rather than against the gas-filled stomach."
+  },
+  {
+    "id": 395,
+    "domain": "procedures",
+    "front": "When is a dorsal decubitus abdomen used?",
+    "back": "When the patient cannot lie on either side; it is taken supine with a horizontal beam from the side, central ray at the iliac crest along the midcoronal plane."
+  },
+  {
+    "id": 396,
+    "domain": "procedures",
+    "front": "Why is the RAO the workhorse projection for an esophagram?",
+    "back": "Rotating 35 to 40 degrees from prone clears the esophagus off the spine and heart shadow, with the central ray perpendicular at T5-T6."
+  },
+  {
+    "id": 397,
+    "domain": "procedures",
+    "front": "What does the left lateral esophagram projection show?",
+    "back": "The retrocardiac esophagus and any posterior indentation from an enlarged left atrium, at the same T5-T6 level."
+  },
+  {
+    "id": 398,
+    "domain": "procedures",
+    "front": "How is a modified barium swallow performed?",
+    "back": "Under live fluoroscopy with varied food and liquid consistencies, so positioning is directed moment to moment rather than following a fixed protocol."
+  },
+  {
+    "id": 399,
+    "domain": "procedures",
+    "front": "Why must the patient be NPO at least eight hours before an upper GI series?",
+    "back": "So the stomach is empty, since retained food dilutes contrast and can mimic pathology."
+  },
+  {
+    "id": 400,
+    "domain": "procedures",
+    "front": "Why are patients asked to avoid smoking and gum chewing before an upper GI series?",
+    "back": "Both stimulate gastric secretions and peristalsis that can wash barium off the mucosa before the images are taken."
+  },
+  {
+    "id": 401,
+    "domain": "procedures",
+    "front": "What does the RAO projection demonstrate on an upper GI series?",
+    "back": "The duodenal bulb and loop free of overlap, rotating 40 to 70 degrees from prone with the central ray at L1-L2."
+  },
+  {
+    "id": 402,
+    "domain": "procedures",
+    "front": "What does the PA projection show on an upper GI series?",
+    "back": "The stomach body, taken straight prone at L1-L2 on suspended expiration."
+  },
+  {
+    "id": 403,
+    "domain": "procedures",
+    "front": "What does the right lateral projection show on an upper GI series?",
+    "back": "The retrogastric space and duodenal bulb in profile, right side against the receptor at L1-L2."
+  },
+  {
+    "id": 404,
+    "domain": "procedures",
+    "front": "Why is the LPO used on an upper GI series?",
+    "back": "Barium sinks to the fundus while gas rises to the antrum and duodenal bulb as the patient is rotated left posterior, filling the fundus with barium, which is useful for double contrast studies."
+  },
+  {
+    "id": 405,
+    "domain": "procedures",
+    "front": "What is the most common positioning error on the upper GI RAO and LPO obliques?",
+    "back": "Under-rotating the body, which leaves the duodenal bulb or fundus still superimposed over the spine or antrum instead of clear of it."
+  },
+  {
+    "id": 406,
+    "domain": "procedures",
+    "front": "How does a small bowel follow-through track barium?",
+    "back": "A PA scout at L2 on suspended expiration is followed by PA images at timed intervals, commonly every 15 to 30 minutes, tracking the barium column through the jejunum and ileum."
+  },
+  {
+    "id": 407,
+    "domain": "procedures",
+    "front": "Why are spot images with compression taken once contrast reaches the ileocecal valve?",
+    "back": "To demonstrate the terminal ileum clearly, an area where Crohn disease findings are commonly sought."
+  },
+  {
+    "id": 408,
+    "domain": "procedures",
+    "front": "Why does a contrast enema require thorough bowel prep beforehand?",
+    "back": "So retained stool does not mimic a lesion and contrast coats the mucosa evenly."
+  },
+  {
+    "id": 409,
+    "domain": "procedures",
+    "front": "What does the left lateral rectum projection evaluate on a contrast enema?",
+    "back": "The rectosigmoid, taken before the rest of the colon fills, central ray perpendicular at the level of the ASIS, centered to the mid-coronal plane posterior to the ASIS, between the ASIS and the posterior sacrum."
+  },
+  {
+    "id": 410,
+    "domain": "procedures",
+    "front": "What do the lateral decubitus views show on a contrast enema?",
+    "back": "The medial and lateral colon walls, using the air-barium interface with a horizontal beam at the iliac crest."
+  },
+  {
+    "id": 411,
+    "domain": "procedures",
+    "front": "Why are LPO and RPO used on a contrast enema?",
+    "back": "To open the splenic and hepatic flexures, since they overlap each other on a straight AP."
+  },
+  {
+    "id": 412,
+    "domain": "procedures",
+    "front": "What does the PA projection show on a contrast enema?",
+    "back": "The transverse colon and both flexures together, central ray at the iliac crest."
+  },
+  {
+    "id": 413,
+    "domain": "procedures",
+    "front": "What is the purpose of the axial sigmoid projection on a contrast enema, and what angle is used?",
+    "back": "It unfolds the sigmoid loop, which otherwise hides polyps by overlapping itself, using a central ray angled 30 to 40 degrees caudad for PA or cephalad for AP."
+  },
+  {
+    "id": 414,
+    "domain": "procedures",
+    "front": "What does a post-evacuation view on a contrast enema check?",
+    "back": "Mucosal detail and how completely the colon empties, central ray perpendicular at the iliac crest."
+  },
+  {
+    "id": 415,
+    "domain": "procedures",
+    "front": "What is the most common error during the double contrast air step of a contrast enema?",
+    "back": "Losing rectal tube retention or over-insufflating, which either drains contrast prematurely and underfills the colon or distends it enough to flatten and hide polyps."
+  },
+  {
+    "id": 416,
+    "domain": "procedures",
+    "front": "How is the patient positioned for surgical cholangiography, and what breathing instruction is given?",
+    "back": "Positioning follows the surgical field, often a slight RAO to clear the duct off the spine; since the patient is under anesthesia, the anesthesiologist may briefly suspend ventilation instead of a direct breathing instruction."
+  },
+  {
+    "id": 417,
+    "domain": "procedures",
+    "front": "How is the patient positioned during ERCP, and what is the radiographer's role?",
+    "back": "Typically prone or semi-prone for endoscope access; the radiographer operates the fluoroscopic unit and takes spot images as directed by the gastroenterologist."
+  },
+  {
+    "id": 418,
+    "domain": "procedures",
+    "front": "What anatomic coverage is required for a foreign body ingestion series?",
+    "back": "Enough anatomy from the pharynx to the rectum, since the object can move well beyond where it was last seen."
+  },
+  {
+    "id": 419,
+    "domain": "procedures",
+    "front": "What is the gold standard method for confirming feeding tube placement?",
+    "back": "A portable AP chest or abdomen radiograph, which directly shows whether the tip has crossed the diaphragm into the stomach rather than coiling in the esophagus or entering the airway."
+  },
+  {
+    "id": 420,
+    "domain": "procedures",
+    "front": "Why is breath suspended on every exposure during cystography?",
+    "back": "Because motion blurs the bladder outline."
+  },
+  {
+    "id": 421,
+    "domain": "procedures",
+    "front": "Why is the female voiding cystourethrogram taken AP?",
+    "back": "The short, roughly 4-centimeter female urethra runs nearly straight down in the midline, so an AP view during voiding shows its full length without unfolding any curve."
+  },
+  {
+    "id": 422,
+    "domain": "procedures",
+    "front": "Why is the male voiding cystourethrogram taken RPO instead of AP?",
+    "back": "The longer male urethra curves through the prostatic and penile segments, and a 30 degree posterior oblique elongates and unfolds that curve so a stricture anywhere along it can be seen without foreshortening."
+  },
+  {
+    "id": 423,
+    "domain": "procedures",
+    "front": "Why is breathing suspended on expiration for each exposure during retrograde urography?",
+    "back": "Because the kidneys and ureters move with respiration."
+  },
+  {
+    "id": 424,
+    "domain": "procedures",
+    "front": "When in the menstrual cycle is a hysterosalpingogram scheduled, and why?",
+    "back": "In the first ten days of the cycle, after bleeding stops but before ovulation, to avoid an early pregnancy and get the clearest cavity image."
+  },
+  {
+    "id": 425,
+    "domain": "procedures",
+    "front": "What does the AP scout accomplish before contrast is instilled for cystography?",
+    "back": "It confirms there is no residual contrast in the bladder before filling, central ray perpendicular about two inches above the symphysis pubis."
+  },
+  {
+    "id": 426,
+    "domain": "procedures",
+    "front": "PA hand: CR location and what the image must demonstrate",
+    "back": "CR is perpendicular to the third metacarpophalangeal joint. The image must show the distal forearm through all phalanges with open joint spaces."
+  },
+  {
+    "id": 427,
+    "domain": "procedures",
+    "front": "What is the fan lateral hand position and why is it used?",
+    "back": "The fingers are spread like a fan so each digit clears its neighbor on the lateral projection. It is useful for showing anterior or posterior displacement of fracture fragments."
+  },
+  {
+    "id": 428,
+    "domain": "procedures",
+    "front": "Why is the PA oblique hand rotated 45 degrees instead of taken flat?",
+    "back": "Rotating 45 degrees with the fingers supported parallel to the IR opens the metacarpal spaces that overlap and superimpose on a straight PA view."
+  },
+  {
+    "id": 429,
+    "domain": "procedures",
+    "front": "Isolated PA finger: CR location and technique",
+    "back": "CR centers on the proximal interphalangeal joint of the affected digit, with the adjacent fingers flexed out of the way."
+  },
+  {
+    "id": 430,
+    "domain": "procedures",
+    "front": "Why is a true lateral finger necessary in addition to the PA finger?",
+    "back": "The lateral finger is critical for showing anterior or posterior displacement of a fracture fragment, which a PA projection would hide."
+  },
+  {
+    "id": 431,
+    "domain": "procedures",
+    "front": "How is the AP thumb obtained?",
+    "back": "The whole hand is rotated medially until the posterior surface of the thumb rests on the IR, with CR at the first MCP joint, giving a true AP of the digit."
+  },
+  {
+    "id": 432,
+    "domain": "procedures",
+    "front": "How are the lateral and oblique thumb positions obtained?",
+    "back": "The routine pronated PA hand position gives an oblique thumb for free, roughly 45 degrees from lateral, since the thumb's natural resting rotation relative to the fingers already places it obliquely. A true lateral thumb instead requires additional rotation beyond the routine PA hand position."
+  },
+  {
+    "id": 433,
+    "domain": "procedures",
+    "front": "What is the purpose of ulnar deviation on a PA wrist projection?",
+    "back": "In neutral position the scaphoid is foreshortened and can hide a fracture line. Deviating the wrist toward the ulna pulls the scaphoid away from the other carpals and elongates it, correcting the foreshortening."
+  },
+  {
+    "id": 434,
+    "domain": "procedures",
+    "front": "Why is the scaphoid clinically significant among the carpal bones?",
+    "back": "The scaphoid is the carpal bone most often fractured and is most prone to avascular necrosis if a fracture is missed."
+  },
+  {
+    "id": 435,
+    "domain": "procedures",
+    "front": "What is the Stecher method and why is it used?",
+    "back": "The Stecher method is a PA axial scaphoid projection that adds a 20 to 25 degree proximal CR angle with the wrist still in ulnar deviation, elongating the scaphoid even further than ulnar deviation alone to clear a fracture line."
+  },
+  {
+    "id": 436,
+    "domain": "procedures",
+    "front": "What is the Gaynor-Hart method and what does it demonstrate?",
+    "back": "The Gaynor-Hart method is a tangential carpal canal projection that hyperextends the wrist palm up with CR angled 25 to 30 degrees along the hand's long axis into the carpal canal. It demonstrates the pisiform, the hamulus of the hamate, and the tunnel that carpal tunnel syndrome affects."
+  },
+  {
+    "id": 437,
+    "domain": "procedures",
+    "front": "What is a bone age study and what does it use for comparison?",
+    "back": "A single PA of the left hand and wrist is compared against a standardized reference atlas, classically Greulich and Pyle, to estimate skeletal maturity. It is useful for evaluating growth disorders or predicting adult height."
+  },
+  {
+    "id": 438,
+    "domain": "procedures",
+    "front": "PA, lateral, and oblique wrist: CR location",
+    "back": "CR is centered at the midcarpal area for the standard PA, lateral, and oblique wrist projections."
+  },
+  {
+    "id": 439,
+    "domain": "procedures",
+    "front": "Forearm AP: positioning and why",
+    "back": "The arm is fully extended with the hand supinated so the radius and ulna lie parallel without crossing, CR at the mid-forearm, with both the wrist and elbow joints included."
+  },
+  {
+    "id": 440,
+    "domain": "procedures",
+    "front": "Why does a true lateral forearm require the thumb-up position?",
+    "back": "The elbow is flexed 90 degrees with the hand thumb-up because that position keeps the radius and ulna from overlapping, which is required for a true lateral."
+  },
+  {
+    "id": 441,
+    "domain": "procedures",
+    "front": "Elbow AP: positioning and what it demonstrates",
+    "back": "The arm is extended with the hand supinated, CR perpendicular to the joint, demonstrating the joint space free of superimposition along with the proximal radius, ulna, and distal humerus."
+  },
+  {
+    "id": 442,
+    "domain": "procedures",
+    "front": "Lateral elbow: flexion angle and CR",
+    "back": "The elbow is flexed exactly 90 degrees with the hand thumb-up, CR directed at the joint."
+  },
+  {
+    "id": 443,
+    "domain": "procedures",
+    "front": "On a correctly positioned lateral elbow, what do the anterior and posterior fat pads indicate?",
+    "back": "The anterior fat pad is normally a faint visible sliver. The posterior fat pad is normally invisible, and its appearance signals a joint effusion, often from an occult fracture."
+  },
+  {
+    "id": 444,
+    "domain": "procedures",
+    "front": "Medial oblique elbow: rotation and what it best shows",
+    "back": "The arm is rotated about 45 degrees medially, best demonstrating the coronoid process."
+  },
+  {
+    "id": 445,
+    "domain": "procedures",
+    "front": "Lateral oblique elbow: rotation and what it best shows",
+    "back": "The arm is rotated about 45 degrees laterally, best demonstrating the radial head, neck, and capitulum."
+  },
+  {
+    "id": 446,
+    "domain": "procedures",
+    "front": "When is the AP partial flexion technique used at the elbow, and how is it performed?",
+    "back": "It is used when a patient cannot fully extend the elbow. Two exposures are taken, one centered on the distal humerus and one on the proximal forearm, each with CR entering wherever that segment sits closest to the IR, avoiding forced extension that a possible fracture makes unsafe."
+  },
+  {
+    "id": 447,
+    "domain": "procedures",
+    "front": "What is the Coyle method and when is it used?",
+    "back": "The Coyle method uses trauma axial laterals of the elbow when even partial flexion is not tolerated. With the elbow flexed near 90 degrees, it works around whatever limited motion the elbow allows."
+  },
+  {
+    "id": 448,
+    "domain": "procedures",
+    "front": "Coyle method: what do the two CR angles each demonstrate?",
+    "back": "One exposure angles CR 45 degrees toward the shoulder, showing the radial head, neck, and capitulum, useful for radial head fractures. The second angles CR 45 degrees toward the hand, showing the coronoid process and trochlea, useful for coronoid process fractures."
+  },
+  {
+    "id": 449,
+    "domain": "procedures",
+    "front": "Why is the humerus AP taken in neutral rotation when a fracture is suspected?",
+    "back": "Forcing rotation of the arm risks displacing fracture fragments, so the epicondyles are kept parallel to the IR without rotating the arm."
+  },
+  {
+    "id": 450,
+    "domain": "procedures",
+    "front": "What is the transthoracic lateral humerus and when is it used?",
+    "back": "It is used for a trauma patient instead of a rotational lateral. The injured arm hangs at the side, the other arm raises overhead, and CR passes horizontally through the thorax to project a true lateral without moving the injured arm."
+  },
+  {
+    "id": 451,
+    "domain": "procedures",
+    "front": "Why does the transthoracic lateral humerus use a breathing technique?",
+    "back": "Shallow breathing during a longer low-mA exposure blurs the ribs and lungs while the denser humerus stays comparatively sharp, since it is one of the few extremity views where breathing technique matters."
+  },
+  {
+    "id": 452,
+    "domain": "procedures",
+    "front": "AP shoulder internal rotation vs external rotation: what does each profile?",
+    "back": "Internal rotation turns the palm posteriorly, profiling the lesser tuberosity medially. External rotation turns the palm anteriorly, profiling the greater tuberosity laterally and giving the clearest view of the humeral head."
+  },
+  {
+    "id": 453,
+    "domain": "procedures",
+    "front": "Why is arm rotation avoided when a shoulder fracture or dislocation is suspected?",
+    "back": "Rotating the arm can worsen the injury, which is exactly why the AP neutral rotation and other trauma-specific shoulder views exist."
+  },
+  {
+    "id": 454,
+    "domain": "procedures",
+    "front": "What is the AP neutral rotation shoulder used for?",
+    "back": "It leaves the arm exactly as the patient presents it and serves as the safe first trauma view when fracture or dislocation is suspected."
+  },
+  {
+    "id": 455,
+    "domain": "procedures",
+    "front": "What is the Grashey method and why is it the standard for suspected dislocation?",
+    "back": "The Grashey method is a posterior oblique shoulder rotated 35 to 45 degrees from a true AP with the affected side against the IR. Rotating the scapula's flat surface parallel to the IR aligns the beam tangent to the glenohumeral joint, opening the joint space cleanly, which is why it is standard for suspected dislocation or joint narrowing."
+  },
+  {
+    "id": 456,
+    "domain": "procedures",
+    "front": "Why does a straight AP shoulder fail to show the glenohumeral joint space clearly?",
+    "back": "The glenoid fossa faces anterolaterally rather than straight forward, so a straight AP beam catches the glenoid at a slant and causes it to overlap the humeral head."
+  },
+  {
+    "id": 457,
+    "domain": "procedures",
+    "front": "What is the Lawrence method and what does it demonstrate?",
+    "back": "The Lawrence method is an inferosuperior axial projection showing the humeral head-glenoid relationship from below, useful for posterior dislocation. The arm abducts 90 degrees if possible, with CR angled 25 to 30 degrees medially through the axilla."
+  },
+  {
+    "id": 458,
+    "domain": "procedures",
+    "front": "What is the scapular Y view and why is it valuable in trauma?",
+    "back": "The patient is positioned at roughly a 60 degree anterior oblique with the affected shoulder against the IR, so the scapular body, coracoid, and acromion form a Y with the humeral head normally centered at the junction. Since no arm movement is needed, it is valuable in trauma."
+  },
+  {
+    "id": 459,
+    "domain": "procedures",
+    "front": "How does the scapular Y view distinguish anterior from posterior shoulder dislocation?",
+    "back": "The humeral head is displaced toward whichever arm of the Y corresponds to the direction of dislocation, rather than sitting centered at the junction."
+  },
+  {
+    "id": 460,
+    "domain": "procedures",
+    "front": "What is the Neer method and what does it evaluate?",
+    "back": "The Neer method is a supraspinatus outlet view, a steeper version of the scapular Y angled 10 to 15 degrees caudad, profiling the outlet space for evaluating impingement."
+  },
+  {
+    "id": 461,
+    "domain": "procedures",
+    "front": "AP and lateral scapula: positioning and CR",
+    "back": "The AP scapula abducts the arm 90 degrees to draw the scapula off the ribs, CR at the mid-scapular body, sometimes with a breathing technique to blur lung markings. The lateral scapula uses the same oblique body rotation as the scapular Y view."
+  },
+  {
+    "id": 462,
+    "domain": "procedures",
+    "front": "How are AC joints imaged and why are two exposures taken?",
+    "back": "Both AC joints are imaged bilaterally on one long IR, AP, CR at the midline at joint level. Two exposures are taken, one without weights and one with weights suspended, to reveal a separation the unstressed view might miss."
+  },
+  {
+    "id": 463,
+    "domain": "procedures",
+    "front": "Why are AC joint stress weights suspended rather than held by the patient?",
+    "back": "Gripping a weight recruits shoulder muscles, which can mask a separation, so the weight is suspended from the wrist instead."
+  },
+  {
+    "id": 464,
+    "domain": "procedures",
+    "front": "AP entire forefoot: CR location and purpose",
+    "back": "CR centers at the third metatarsophalangeal joint, showing all five toes and distal metatarsals as a screening view."
+  },
+  {
+    "id": 465,
+    "domain": "procedures",
+    "front": "Individual AP or AP axial toe: CR location",
+    "back": "CR centers on that digit's interphalangeal joint (the sole IP joint on the two-phalanx great toe, or the proximal interphalangeal joint on toes two through five), sometimes angled slightly to open the joint on a short great toe."
+  },
+  {
+    "id": 466,
+    "domain": "procedures",
+    "front": "Oblique toe and lateral toe: how are they obtained and why is the lateral needed?",
+    "back": "The oblique toe rotates the foot 30 to 45 degrees medially. The lateral toe isolates the affected digit with the other toes taped away, needed to show displacement an AP view cannot."
+  },
+  {
+    "id": 467,
+    "domain": "procedures",
+    "front": "AP axial foot: CR angle and why it is angled",
+    "back": "CR angles 10 degrees toward the heel, entering the base of the third metatarsal, compensating for the foot's natural arch so the tarsometatarsal joints are not foreshortened."
+  },
+  {
+    "id": 468,
+    "domain": "procedures",
+    "front": "Medial oblique foot: rotation and clinical role",
+    "back": "The foot rotates 30 degrees medially, opening the sinus tarsi and separating the metatarsal bases. It is the standard oblique for foot trauma."
+  },
+  {
+    "id": 469,
+    "domain": "procedures",
+    "front": "Lateral foot: CR location",
+    "back": "CR is directed at the base of the third metatarsal on a true mediolateral projection, showing the arch profile."
+  },
+  {
+    "id": 470,
+    "domain": "procedures",
+    "front": "Why are weight-bearing foot views ordered?",
+    "back": "They are taken standing for arch collapse, flatfoot, or hardware alignment under physiologic load, since a supine image cannot show how the arch behaves under body weight."
+  },
+  {
+    "id": 471,
+    "domain": "procedures",
+    "front": "Lateral calcaneus: CR location",
+    "back": "CR enters about one inch inferior to the medial malleolus on a straightforward mediolateral projection."
+  },
+  {
+    "id": 472,
+    "domain": "procedures",
+    "front": "Plantodorsal axial calcaneus: CR angle and why it is so steep",
+    "back": "CR angles 40 degrees cephalad into the plantar surface of the heel. The steep angle is needed to project the calcaneal body clear of the talus and lower leg above it."
+  },
+  {
+    "id": 473,
+    "domain": "procedures",
+    "front": "AP ankle: positioning and its main limitation",
+    "back": "The leg is extended with the foot dorsiflexed, CR perpendicular midway between the malleoli, showing the distal tibia, fibula, and talus, though the joint space is not fully open because the fibula overlaps the talus slightly."
+  },
+  {
+    "id": 474,
+    "domain": "procedures",
+    "front": "Mortise ankle view: how much rotation and why is it needed?",
+    "back": "The foot and leg are internally rotated 15 to 20 degrees. The two malleoli are not in the same coronal plane, so this rotation brings the intermalleolar line parallel to the IR and places CR perpendicular to the actual joint."
+  },
+  {
+    "id": 475,
+    "domain": "procedures",
+    "front": "What does a correctly positioned mortise view show?",
+    "back": "It shows an even joint space around all three sides of the talus with no fibula-tibia overlap, and any narrowing or widening signals ligament injury or fracture that a plain AP would miss."
+  },
+  {
+    "id": 476,
+    "domain": "procedures",
+    "front": "Lateral ankle: CR location and use",
+    "back": "CR is directed at the medial malleolus on a mediolateral projection, showing the tibiotalar joint from the side and useful for displacement or effusion."
+  },
+  {
+    "id": 477,
+    "domain": "procedures",
+    "front": "Medial oblique ankle: how does it differ from the mortise view?",
+    "back": "The medial oblique ankle rotates 45 degrees medially, profiling the distal tibiofibular syndesmosis, a larger rotation than the mortise view's 15 to 20 degrees. Both rotate the same direction but serve different purposes at different angles."
+  },
+  {
+    "id": 478,
+    "domain": "procedures",
+    "front": "AP stress views of the ankle: what do they evaluate?",
+    "back": "Manual inversion or eversion is applied during exposure to evaluate ligament laxity against a normal side."
+  },
+  {
+    "id": 479,
+    "domain": "procedures",
+    "front": "Why are weight-bearing AP and lateral ankle views ordered?",
+    "back": "They are taken standing to evaluate alignment and joint narrowing under load, often for chronic instability or syndesmotic injury."
+  },
+  {
+    "id": 480,
+    "domain": "procedures",
+    "front": "Tibia-fibula AP and lateral: why are both adjacent joints included?",
+    "back": "Both the knee and ankle are included with CR at the mid-shaft, since shaft fractures can accompany injury at either adjacent joint."
+  },
+  {
+    "id": 481,
+    "domain": "procedures",
+    "front": "AP knee: CR location and when is it angled cephalad?",
+    "back": "CR is perpendicular, entering about half an inch below the patellar apex, or angled 3 to 5 degrees cephalad in a larger body habitus, since greater lordotic tilt otherwise foreshortens the joint space."
+  },
+  {
+    "id": 482,
+    "domain": "procedures",
+    "front": "Why are weight-bearing AP knee views ordered?",
+    "back": "Standing on both legs evaluates joint space narrowing from osteoarthritis, since cartilage loss only shows under load and a supine image can look deceptively normal."
+  },
+  {
+    "id": 483,
+    "domain": "procedures",
+    "front": "Lateral knee: flexion angle and CR direction",
+    "back": "The knee flexes 20 to 30 degrees, CR angled 5 to 7 degrees cephalad, directed below the medial epicondyle."
+  },
+  {
+    "id": 484,
+    "domain": "procedures",
+    "front": "Why is the lateral knee not flexed further than 20 to 30 degrees?",
+    "back": "Flexing further tightens the joint and can hide a suprapatellar effusion, a key finding this view is meant to catch."
+  },
+  {
+    "id": 485,
+    "domain": "procedures",
+    "front": "Medial and lateral knee obliques: what do they clear and evaluate?",
+    "back": "Rotating 45 degrees each way clears the femoral condyles and tibial plateau of overlap and evaluates the fibular head."
+  },
+  {
+    "id": 486,
+    "domain": "procedures",
+    "front": "What is the general purpose of the intercondylar fossa (tunnel) views of the knee?",
+    "back": "They show the notch between the femoral condyles for osteochondral defects and loose bodies."
+  },
+  {
+    "id": 487,
+    "domain": "procedures",
+    "front": "What is the Holmblad method?",
+    "back": "The Holmblad method is a PA axial intercondylar fossa projection with the patient kneeling, knee flexed about 70 degrees, CR perpendicular to the lower leg, which because of that steep flexion enters the fossa nearly straight through."
+  },
+  {
+    "id": 488,
+    "domain": "procedures",
+    "front": "What is the Camp Coventry method and when is it chosen?",
+    "back": "The Camp Coventry method is a PA axial intercondylar fossa projection done prone, knee flexed 40 to 50 degrees, CR angled 40 to 50 degrees caudad to match the flexion. It is chosen when kneeling is not tolerated."
+  },
+  {
+    "id": 489,
+    "domain": "procedures",
+    "front": "What is the Béclère method?",
+    "back": "The Béclère method is the supine alternative for the intercondylar fossa, knee flexed 40 to 45 degrees on a sponge, CR angled 40 to 45 degrees cephalad to match, so the beam travels straight through the notch regardless of patient position."
+  },
+  {
+    "id": 490,
+    "domain": "procedures",
+    "front": "What is the Merchant method and why are both knees imaged together?",
+    "back": "The Merchant method is a tangential patellofemoral projection taken supine with both knees flexed 40 degrees off the table end, CR angled 30 degrees from the long axis of the legs. Both knees are imaged together for side-to-side comparison of subluxation or tracking."
+  },
+  {
+    "id": 491,
+    "domain": "procedures",
+    "front": "What is the Settegast method and why is it used less often today?",
+    "back": "The Settegast method is a tangential patellofemoral projection taken prone with the knee flexed as sharply as tolerated, CR angled 15 to 20 degrees cephalad into the joint. It is used less often since forced sharp flexion can displace a suspected patellar fracture."
+  },
+  {
+    "id": 492,
+    "domain": "procedures",
+    "front": "Why is the standalone PA patella taken prone?",
+    "back": "The prone position brings the patella closer to the IR, with CR perpendicular exiting the patella, improving detail."
+  },
+  {
+    "id": 493,
+    "domain": "procedures",
+    "front": "Femur AP and lateral: which joint is included?",
+    "back": "One adjacent joint, hip or knee, is generally included depending on where the pathology is suspected, with the opposite joint imaged separately if the femur is too long for one IR."
+  },
+  {
+    "id": 494,
+    "domain": "procedures",
+    "front": "What is a scanogram and how is it performed?",
+    "back": "A scanogram, or long bone measurement, evaluates limb length discrepancy. A radiopaque ruler is placed alongside the limb, and three separate exposures are taken on one long IR, each centered individually over the hip, knee, and ankle with CR perpendicular to that joint."
+  },
+  {
+    "id": 495,
+    "domain": "procedures",
+    "front": "Why does a scanogram use three separate centered exposures instead of one exposure down the whole leg?",
+    "back": "Centering each joint separately avoids the magnification distortion a single divergent beam would cause, since a joint far from CR would appear artificially larger or smaller than one centered directly under it, corrupting the measurement."
+  },
+  {
+    "id": 496,
+    "domain": "procedures",
+    "front": "When is a skeletal survey ordered for metastatic disease screening?",
+    "back": "It is ordered in adults since cancers such as breast, prostate, and lung commonly spread to bone, and a survey of the skull, spine, ribs, pelvis, and long bones can catch lytic or sclerotic lesions before a pathologic fracture occurs."
+  },
+  {
+    "id": 497,
+    "domain": "procedures",
+    "front": "What is a child abuse skeletal survey and why does it image each extremity individually?",
+    "back": "It is a suspected non-accidental trauma workup in a young child. Inflicted injuries often include fractures at different healing stages that are not clinically obvious, so a full survey imaging the skull, chest, spine, pelvis, and each extremity individually documents every skeletal injury present, including old healed fractures the history omits."
+  },
+  {
+    "id": 498,
+    "domain": "procedures",
+    "front": "What is arthrography and what does it show that plain radiographs cannot?",
+    "back": "Arthrography is a fluoroscopically or ultrasound-guided procedure injecting contrast, either iodinated contrast alone or iodinated contrast plus air, directly into a joint capsule to outline soft tissue such as the capsule lining, cartilage, ligaments, and the menisci or labrum."
+  },
+  {
+    "id": 499,
+    "domain": "procedures",
+    "front": "When is direct MR arthrography still used despite MRI largely replacing conventional arthrography?",
+    "back": "Direct MR arthrography, injecting dilute gadolinium into the joint before scanning, is still used when the extra distension improves visualization of a subtle labral or ligament tear."
+  },
+  {
+    "id": 500,
+    "domain": "procedures",
+    "front": "What is the difference between joint aspiration and joint injection?",
+    "back": "Joint aspiration withdraws fluid for diagnostic testing such as infection or gout, or for therapeutic relief of a painful effusion. Joint injection instead delivers a corticosteroid and local anesthetic to reduce inflammation and pain, typically guided by fluoroscopy or ultrasound."
+  }
+]
